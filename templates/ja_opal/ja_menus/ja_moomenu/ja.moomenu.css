@@ -1,35 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <base href="/">
-  <meta charset="utf-8" />
-  <link rel="icon" href="/offshoot_assets/favicon.ico" />
-  <link rel="apple-touch-icon" href="/offshoot_assets/apple-touch-icon.png" />
-  <link rel="preconnect" href="https://archive.org" crossorigin />
-  <link rel="preconnect" href="https://analytics.archive.org" />
-  <link rel="dns-prefetch" href="https://apollo.archive.org" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="google-site-verification" content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" />
-  <meta name="google-site-verification" content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" />
-  <meta http-equiv="Pragma" content="no-cache" />
-  <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate" />
-  <link rel="stylesheet" type="text/css" href="/offshoot_assets/index.css" />
-  <title>Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine</title>
-  <script defer src="/offshoot_assets/vendor/lit/polyfill-support.js"></script>
-  <script defer src="/offshoot_assets/vendor/@webcomponents/webcomponentsjs@2.6.0/webcomponents-loader.js"></script>
-  <script type="module" crossorigin src="/offshoot_assets/index-BkfLSpFB.js"></script>
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/rolldown-runtime-QTnfLwEv.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/preload-helper-zJ_50EbN.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/vendor-shared-62wh2Xkx.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/vendor-lit-MQ4DzmMc.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/vendor-topnav-Dcg-INpV.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/analytics-handler-DK_L78yH.js">
-  <link rel="modulepreload" crossorigin href="/offshoot_assets/vendor-router-BJcn_WPh.js">
-</head>
-<body>
-  <app-root></app-root>
-  <noscript>
-    <h2>Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.</h2>
-  </noscript>
-</body>
-</html>
+﻿#ja-cssmenu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#ja-cssmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#ja-cssmenu li {
+    margin: 0;
+    padding: 0;
+    float: left;
+    display: block;
+    position: relative;
+    background: none;
+}
+#ja-cssmenu li a {
+    display: block;
+    text-decoration: none;
+    line-height: 36px;
+    padding: 0 15px;
+    color: #CCCCCC;
+    font-weight: bold;
+    font-size: 11px;
+    text-transform: uppercase;
+    border-right: 1px solid #333333;
+}
+#ja-cssmenu li a:hover,
+#ja-cssmenu li.active a,
+#ja-cssmenu li:hover > a {
+    color: #FFFFFF;
+    background: #D95B16;
+}
+#ja-cssmenu li ul {
+    position: absolute;
+    left: -999em;
+    top: 36px;
+    width: 210px;
+    background: #222222;
+    border: 1px solid #444444;
+    z-index: 9999;
+}
+#ja-cssmenu li:hover > ul {
+    left: 0;
+}
+#ja-cssmenu li ul li {
+    float: none;
+    width: 100%;
+    border-bottom: 1px solid #333333;
+}
+#ja-cssmenu li ul li a {
+    line-height: 28px;
+    padding: 2px 12px;
+    font-size: 11px;
+    text-transform: none;
+    border-right: none;
+    color: #CCCCCC;
+}
+#ja-cssmenu li ul li a:hover {
+    background: #D95B16;
+    color: #FFFFFF;
+}
+#ja-cssmenu li ul ul {
+    top: 0;
+    margin-left: 210px;
+}
