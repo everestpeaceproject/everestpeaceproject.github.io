@@ -6,6 +6,10 @@
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8"><META HTTP-EQUIV="Refresh" CONTENT="0; URL=/wpress/?p=209"><TITLE>Page has moved</TITLE>
 <style type="text/css">
+body#bd, body {
+    background: #1B242B url('/templates/ja_opal/images/body-bg.jpg') no-repeat center top fixed !important;
+    background-size: cover !important;
+}
 #ja-mainnavwrap { width: 960px !important; margin: 0 auto !important; background: none !important; }
 #ja-mainnav {
     width: 960px !important;
@@ -48,13 +52,13 @@ window.addEventListener("load", function() {
         var idx = 0;
         for (var i = 0; i < slides.length; i++) {
             slides[i].style.opacity = (i === 0) ? "1" : "0";
-            slides[i].style.transition = "opacity 0.4s ease-in-out";
+            slides[i].style.transition = "opacity 0.6s ease-in-out";
         }
         setInterval(function() {
             slides[idx].style.opacity = "0";
             idx = (idx + 1) % slides.length;
             slides[idx].style.opacity = "1";
-        }, 2500);
+        }, 3500);
     }
 });
 </script>
@@ -66,6 +70,7 @@ window.addEventListener("load", function() {
 
 <!-- Mirrored from /wpress/?p=209 by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 22:40:29 GMT -->
 </HTML>
+
 
 
 

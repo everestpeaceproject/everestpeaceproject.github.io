@@ -75,6 +75,10 @@
       }
     </style>
   <style type="text/css">
+body#bd, body {
+    background: #1B242B url('/templates/ja_opal/images/body-bg.jpg') no-repeat center top fixed !important;
+    background-size: cover !important;
+}
 #ja-mainnavwrap { width: 960px !important; margin: 0 auto !important; background: none !important; }
 #ja-mainnav { width: 960px !important; margin: 0 auto !important; height: 36px !important; background: linear-gradient(to bottom, #3A3A3A 0%, #1A1A1A 100%) !important; border: 1px solid #111111 !important; border-bottom: 3px solid #D95B16 !important; box-sizing: border-box !important; overflow: visible !important; position: relative !important; z-index: 9999 !important; font-family: Arial, Helvetica, sans-serif !important; }
 #ja-mainnav .main { width: 100% !important; margin: 0 !important; padding: 0 !important; background: none !important; }
@@ -104,13 +108,13 @@ window.addEventListener("load", function() {
         var idx = 0;
         for (var i = 0; i < slides.length; i++) {
             slides[i].style.opacity = (i === 0) ? "1" : "0";
-            slides[i].style.transition = "opacity 0.4s ease-in-out";
+            slides[i].style.transition = "opacity 0.6s ease-in-out";
         }
         setInterval(function() {
             slides[idx].style.opacity = "0";
             idx = (idx + 1) % slides.length;
             slides[idx].style.opacity = "1";
-        }, 2500);
+        }, 3500);
     }
 });
 </script>
@@ -2752,4 +2756,5 @@ window.addEventListener("load", function() {
 
 <!-- Mirrored from https://web.archive.org/web/20160212045943*//peace-trek/everest-trek-detailed-overview.html by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 22:40:28 GMT -->
 </html>
+
 
