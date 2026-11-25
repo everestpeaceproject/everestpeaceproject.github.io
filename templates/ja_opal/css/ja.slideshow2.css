@@ -1,4 +1,4 @@
-﻿.ja-slidewrap {
+.ja-slidewrap {
 	margin: 0;
 	padding: 0;
 	position: relative;
@@ -84,7 +84,7 @@
 }
 
 .but_next {
-	background: url(/templates/ja_opal/images/arrow-r.gif) no-repeat left center;
+	background: url(../../../../../../20160419073425im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/arrow-r.gif) no-repeat left center;
 	right: 0;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .maskDesc a.readon {
-	background: url(/templates/ja_opal/images/arrow-ri-hover.gif) no-repeat right 10px;
+	background: url(../../../../../../20160419073425im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/arrow-ri-hover.gif) no-repeat right 10px;
 	bottom: 10px;
 	color: #810C46;
 	display: block;
@@ -123,7 +123,7 @@
 }
 
 .maskDesc a.readon:hover, .maskDesc a.readon:active, .maskDesc a.readon:focus {
-	background: url(/templates/ja_opal/images/arrow-ri.gif) no-repeat right 10px;
+	background: url(../../../../../../20160419073425im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/arrow-ri.gif) no-repeat right 10px;
 	color: #FFFFFF;
 }
 
