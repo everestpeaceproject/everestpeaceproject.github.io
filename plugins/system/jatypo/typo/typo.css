@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ------------------------------------------------------------------------
  * JA Typo plugin
  * ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ pre,.code {
 }
 
 .dropcap-1,.dropcap-2,.dropcap-3 {
-	background-image: url(../../../../../../../20160419202346im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/dropcap-bg.png);
+	background-image: url(/plugins/system/jatypo/typo/images/dropcap-bg.png);
 	background-repeat: no-repeat;
 	color: #FFFFFF;
 	display: block;
@@ -76,13 +76,13 @@ blockquote {
 }
 
 blockquote span.open {
-	background: url(../../../../../../../20160419202347im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/so-q.gif) no-repeat left top;
+	background: url(/plugins/system/jatypo/typo/images/so-q.gif) no-repeat left top;
 	display: inline-block;
 	padding: 0 0 0 20px;
 }
 
 blockquote span.close {
-	background: url(../../../../../../../20160419202422im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/sc-q.gif) no-repeat bottom right;
+	background: url(/plugins/system/jatypo/typo/images/sc-q.gif) no-repeat bottom right;
 	display: inline-block;
 	padding: 0 20px 0 0;
 }
@@ -109,27 +109,27 @@ ul.checklist li,ul.starlist li,ul.arrowlist li,ul.bulletlist li,ul.crosslist li,
 }
 
 ul.checklist li {
-	background-image: url(../../../../../../../20160419202431im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-check.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-check.png) !important;
 }
 
 ul.starlist li {
-	background-image: url(../../../../../../../20160419202443im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-star.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-star.png) !important;
 }
 
 ul.arrowlist li {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-arrow.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-arrow.png) !important;
 }
 
 ul.bulletlist li {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-bullet.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-bullet.png) !important;
 }
 
 ul.crosslist li {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-cross.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-cross.png) !important;
 }
 
 ul.addlist li {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/list-add.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/list-add.png) !important;
 }
 
 ul.blanklist li {
@@ -140,7 +140,7 @@ ul.blanklist li {
 }
 
 ul.bookmark-links li {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/arrow.png) no-repeat 0 10px !important;
+	background: url(/plugins/system/jatypo/typo/images/arrow.png) no-repeat 0 10px !important;
 	border-bottom: 1px dotted #e6e6e6;
 	padding: 5px 0 5px 10px !important;
 }
@@ -155,110 +155,110 @@ ul.bookmark-links li {
 }
 
 .icon-error {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-error.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-error.png) !important;
 	color: #CC0000;
 }
 
 .icon-message {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-message.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-message.png) !important;
 	color: #2C79B3;
 }
 
 .icon-tips {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-tips.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-tips.png) !important;
 	color: #E58C00;
 }
 
 .icon-note {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-note.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-note.png) !important;
 }
 
 .icon-rss {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-rss.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-rss.png) !important;
 }
 
 .icon-tag {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-tag.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-tag.png) !important;
 }
 
 .icon-cart {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-cart.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-cart.png) !important;
 }
 
 .icon-page {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-page.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-page.png) !important;
 }
 
 .icon-photo {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-photo.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-photo.png) !important;
 }
 
 .icon-calendar {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-calendar.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-calendar.png) !important;
 }
 
 .icon-user {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-user.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-user.png) !important;
 }
 
 .icon-key {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-key.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-key.png) !important;
 }
 
 .icon-group {
-	background-image: url(../../../../../../../20160419202405im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-group.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-group.png) !important;
 }
 
 .icon-birthday {
-	background-image: url(../../../../../../../20160419202359im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-birthday.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-birthday.png) !important;
 }
 
 .icon-address {
-	background-image: url(../../../../../../../20160419202423im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-address.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-address.png) !important;
 }
 
 .icon-phone {
-	background-image: url(../../../../../../../20160419202421im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-phone.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-phone.png) !important;
 }
 
 .icon-mobi {
-	background-image: url(../../../../../../../20160419202352im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-mobi.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-mobi.png) !important;
 }
 
 .icon-fax {
-	background-image: url(../../../../../../../20160419202418im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-fax.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-fax.png) !important;
 }
 
 .icon-email {
-	background-image: url(../../../../../../../20160419202417im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-email.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-email.png) !important;
 }
 
 .icon-website {
-	background-image: url(../../../../../../../20160419202421im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-website.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-website.png) !important;
 }
 
 .icon-yahoo {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-yahoo.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-yahoo.png) !important;
 }
 
 .icon-gmail {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-gmail.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-gmail.png) !important;
 }
 
 .icon-skype {
-	background-image: url(../../../../../../../20160419202345im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-skype.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-skype.png) !important;
 }
 
 .icon-msn {
-	background-image: url(../../../../../../../20160419202416im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-msn.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-msn.png) !important;
 }
 
 .icon-facebook {
-	background-image: url(../../../../../../../20160419202442im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-facebook.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-facebook.png) !important;
 }
 
 .icon-twitter {
-	background-image: url(../../../../../../../20160419202352im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-twitter.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-twitter.png) !important;
 }
 
 .icon-demo,.icon-download,.icon-discussion,.icon-info,.icon-readmore,.icon-doc,.icon-signup,.icon-login,.icon-submit,.icon-extension
@@ -268,43 +268,43 @@ ul.bookmark-links li {
 }
 
 .icon-demo {
-	background-image: url(../../../../../../../20160419202414im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-demo.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-demo.png) !important;
 }
 
 .icon-download {
-	background-image: url(../../../../../../../20160419202345im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-download.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-download.png) !important;
 }
 
 .icon-discussion {
-	background-image: url(../../../../../../../20160419202346im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-discussion.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-discussion.png) !important;
 }
 
 .icon-info {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-info.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-info.png) !important;
 }
 
 .icon-readmore {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-readmore.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-readmore.png) !important;
 }
 
 .icon-doc {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-doc.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-doc.png) !important;
 }
 
 .icon-signup {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-signup.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-signup.png) !important;
 }
 
 .icon-login {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-login.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-login.png) !important;
 }
 
 .icon-submit {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-submit.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-submit.png) !important;
 }
 
 .icon-extension {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-extension.png) !important;
+	background-image: url(/plugins/system/jatypo/typo/images/icon-extension.png) !important;
 }
 
 /* BOXES AND LEGENDS
@@ -317,21 +317,21 @@ ul.bookmark-links li {
 }
 
 .box-notice {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/box-note.png) no-repeat scroll 10px center
+	background: url(/plugins/system/jatypo/typo/images/box-note.png) no-repeat scroll 10px center
 		#fff6bf;
 	border: 1px solid #ffd324;
 	color: #514721;
 }
 
 .box-success {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/box-success.png) no-repeat scroll 10px center
+	background: url(/plugins/system/jatypo/typo/images/box-success.png) no-repeat scroll 10px center
 		#E6EFC2;
 	border: 1px solid #C6D880;
 	color: #264409;
 }
 
 .box-error {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/box-error.png) no-repeat scroll 10px center
+	background: url(/plugins/system/jatypo/typo/images/box-error.png) no-repeat scroll 10px center
 		#FBE3E4;
 	border: 1px solid #FBC2C4;
 	color: #8A1F11;
@@ -344,14 +344,14 @@ ul.bookmark-links li {
 }
 
 .box-sticky {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-big-sticky.png) no-repeat 10px center
+	background: url(/plugins/system/jatypo/typo/images/icon-big-sticky.png) no-repeat 10px center
 		#ffffcc;
 	border: 1px dotted #cc8500;
 	padding-left: 50px !important;
 }
 
 .box-download {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-big-download.png) no-repeat 10px center
+	background: url(/plugins/system/jatypo/typo/images/icon-big-download.png) no-repeat 10px center
 		#e9f5fb;
 	border: 1px dotted #0088cc;
 	padding-left: 50px !important;
@@ -460,19 +460,19 @@ div.bubble span.arrow {
 }
 
 div.bubble-l1 span.arrow,div.bubble-l2 span.arrow {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-l.png) no-repeat left top;
+	background: url(/plugins/system/jatypo/typo/images/bubble-l.png) no-repeat left top;
 }
 
 div.bubble-d1 span.arrow,div.bubble-d2 span.arrow {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-d.png) no-repeat left top;
+	background: url(/plugins/system/jatypo/typo/images/bubble-d.png) no-repeat left top;
 }
 
 div.bubble-hl1 span.arrow,div.bubble-hl2 span.arrow {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-hl.png) no-repeat left top;
+	background: url(/plugins/system/jatypo/typo/images/bubble-hl.png) no-repeat left top;
 }
 
 div.bubble span.author {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icon-author.gif) no-repeat 10px 3px;
+	background: url(/plugins/system/jatypo/typo/images/icon-author.gif) no-repeat 10px 3px;
 	display: block;
 	font-weight: bold;
 	padding-left: 25px;
@@ -485,7 +485,7 @@ div.bubble-l1 div.box-ct {
 
 div.bubble-l1 .tl,div.bubble-l1 .tr,div.bubble-l1 .bl,div.bubble-l1 .br
 	{
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-l.png);
+	background-image: url(/plugins/system/jatypo/typo/images/bubble-l.png);
 }
 
 /* Bubble light style 2 */
@@ -501,7 +501,7 @@ div.bubble-d1 div.box-ct {
 
 div.bubble-d1 div.tl,div.bubble-d1 div.tr,div.bubble-d1 div.bl,div.bubble-d1 div.br
 	{
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-d.png);
+	background-image: url(/plugins/system/jatypo/typo/images/bubble-d.png);
 }
 
 /* Bubble Dark light style 2 */
@@ -518,7 +518,7 @@ div.bubble-hl1 .box-ct {
 
 div.bubble-hl1 div.tl,div.bubble-hl1 div.tr,div.bubble-hl1 div.bl,div.bubble-hl1 div.br
 	{
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-hl.png);
+	background-image: url(/plugins/system/jatypo/typo/images/bubble-hl.png);
 }
 
 /* Bubble highlight style 2 */
@@ -637,173 +637,173 @@ div.ja-adv span.sponsor {
 }
 
 .but-white {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-white-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-white-l.png) no-repeat left center;
 }
 
 .but-white span {
-	background: url(../../../../../../../20160419202402im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-white.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-white.png) no-repeat right center;
 	color: #606060;
 }
 
 .but-white:hover {
-	background: url(../../../../../../../20160419202417im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-white2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-white2-l.png) no-repeat left center;
 }
 
 .but-white:hover span {
-	background: url(../../../../../../../20160419202434im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-white2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-white2.png) no-repeat right center;
 }
 
 .but-silver {
-	background: url(../../../../../../../20160419202346im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-silver-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-silver-l.png) no-repeat left center;
 }
 
 .but-silver span {
-	background: url(../../../../../../../20160419202348im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-silver.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-silver.png) no-repeat right center;
 	color: #606060;
 }
 
 .but-silver:hover {
-	background: url(../../../../../../../20160419202430im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-silver2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-silver2-l.png) no-repeat left center;
 }
 
 .but-silver:hover span {
-	background: url(../../../../../../../20160419202412im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-silver2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-silver2.png) no-repeat right center;
 }
 
 .but-gray {
-	background: url(../../../../../../../20160419202416im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-gray-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-gray-l.png) no-repeat left center;
 }
 
 .but-gray span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-gray.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-gray.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-gray:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-gray2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-gray2-l.png) no-repeat left center;
 }
 
 .but-gray:hover span {
-	background: url(../../../../../../../20160419202355im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-gray2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-gray2.png) no-repeat right center;
 }
 
 .but-black {
-	background: url(../../../../../../../20160419202412im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-black-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-black-l.png) no-repeat left center;
 }
 
 .but-black span {
-	background: url(../../../../../../../20160419202406im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-black.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-black.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-black:hover {
-	background: url(../../../../../../../20160419202432im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-black2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-black2-l.png) no-repeat left center;
 }
 
 .but-black:hover span {
-	background: url(../../../../../../../20160419202404im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-black2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-black2.png) no-repeat right center;
 }
 
 .but-blue {
-	background: url(../../../../../../../20160419202426im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-blue-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-blue-l.png) no-repeat left center;
 }
 
 .but-blue span {
-	background: url(../../../../../../../20160419202353im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-blue.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-blue.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-blue:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-blue2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-blue2-l.png) no-repeat left center;
 }
 
 .but-blue:hover span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-blue2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-blue2.png) no-repeat right center;
 }
 
 .but-green {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-green-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-green-l.png) no-repeat left center;
 }
 
 .but-green span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-green.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-green.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-green:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-green2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-green2-l.png) no-repeat left center;
 }
 
 .but-green:hover span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-green2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-green2.png) no-repeat right center;
 }
 
 .but-red {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-red-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-red-l.png) no-repeat left center;
 }
 
 .but-red span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-red.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-red.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-red:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-red2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-red2-l.png) no-repeat left center;
 }
 
 .but-red:hover span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-red2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-red2.png) no-repeat right center;
 }
 
 .but-pink {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-pink-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-pink-l.png) no-repeat left center;
 }
 
 .but-pink span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-pink.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-pink.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-pink:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-pink2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-pink2-l.png) no-repeat left center;
 }
 
 .but-pink:hover span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-pink2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-pink2.png) no-repeat right center;
 }
 
 .but-orange {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-orange-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-orange-l.png) no-repeat left center;
 }
 
 .but-orange span {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-orange.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-orange.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-orange:hover {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-orange2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-orange2-l.png) no-repeat left center;
 }
 
 .but-orange:hover span {
-	background: url(../../../../../../../20160419202437im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-orange2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-orange2.png) no-repeat right center;
 }
 
 .but-violet {
-	background: url(../../../../../../../20160419202356im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-violet-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-violet-l.png) no-repeat left center;
 }
 
 .but-violet span {
-	background: url(../../../../../../../20160419202430im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-violet.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-violet.png) no-repeat right center;
 	color: #fff;
 }
 
 .but-violet:hover {
-	background: url(../../../../../../../20160419202354im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-violet2-l.png) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/but-violet2-l.png) no-repeat left center;
 }
 
 .but-violet:hover span {
-	background: url(../../../../../../../20160419202400im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/but-violet2.png) no-repeat right center;
+	background: url(/plugins/system/jatypo/typo/images/but-violet2.png) no-repeat right center;
 }
 
 /* Buttons css3 ---*/
@@ -1182,7 +1182,7 @@ div.ja-adv span.sponsor {
 }
 
 th .tittle-row {
-	background: url(../../../../../../../20160419202406im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/arrow-list.gif) no-repeat left center;
+	background: url(/plugins/system/jatypo/typo/images/arrow-list.gif) no-repeat left center;
 	border-bottom: solid 2px #ddd;
 	color: blue;
 	display: block;
@@ -1194,7 +1194,7 @@ th .tittle-row {
 
 #jatypo-wrap .modal {
 	background: #f8f8f8;
-	background: url(../../../../../../../20160419202442im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/other/icon-viewall.png) no-repeat 57px center
+	background: url(/plugins/system/jatypo/typo/images/other/icon-viewall.png) no-repeat 57px center
 		#f8f8f8;
 	border: solid 1px #c0c0c0;
 	color: #333 !important;
@@ -1209,7 +1209,7 @@ th .tittle-row {
 }
 
 .button2-left .jatypo-btn {
-	background: url(../../../../../../../20160419202441im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/other/j_button2_typo.png) no-repeat scroll 100% 0
+	background: url(/plugins/system/jatypo/typo/images/other/j_button2_typo.png) no-repeat scroll 100% 0
 		transparent;
 	color: #333;
 }
@@ -1234,7 +1234,7 @@ th .tittle-row {
 }
 
 .icon-big-title {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/other/icon-big-title.png) no-repeat left center
+	background: url(/plugins/system/jatypo/typo/images/other/icon-big-title.png) no-repeat left center
 		!important;
 	height: 57px !important;
 	line-height: 57px !important;
@@ -1243,7 +1243,7 @@ th .tittle-row {
 }
 
 .icon-small-title {
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/other/icon-small-title.png) no-repeat left center
+	background: url(/plugins/system/jatypo/typo/images/other/icon-small-title.png) no-repeat left center
 		!important;
 	color: #006699 !important;
 	height: 20px !important;
@@ -1256,7 +1256,7 @@ th .tittle-row {
 Typography New style
 ========================*/
 .button2-left .jatypo-btn {
-	background: url(../../../../../../../20160419202441im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/other/j_button2_typo.png) no-repeat scroll 100% 0
+	background: url(/plugins/system/jatypo/typo/images/other/j_button2_typo.png) no-repeat scroll 100% 0
 		transparent;
 	color: #333;
 }
@@ -1276,7 +1276,7 @@ body ul.ja-typo-list li {
 }
 
 body ul.ja-typo-list span.icon {
-	background-image: url(../../../../../../../20160419202350im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons-sprites-silk2.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons-sprites-silk2.png);
 	background-repeat: no-repeat;
 	width: 18px;
 	height: 18px;
@@ -1300,7 +1300,7 @@ body ul.list-check	span.icon {
 }
 
 body ul.ja-unordered-list li {
-	background: url(../../../../../../../20160419202443im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bullet.gif) no-repeat 20px 7px;
+	background: url(/plugins/system/jatypo/typo/images/bullet.gif) no-repeat 20px 7px;
 	line-height: 160%;
 	margin-bottom: 5px;
 	overflow: hidden;
@@ -1336,7 +1336,7 @@ body dl.ja-definition-list dd {
 }
 
 .blocknumber .bignumber {
-	background-image: url(../../../../../../../20160419202351im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/blocknumber-bg.png);
+	background-image: url(/plugins/system/jatypo/typo/images/blocknumber-bg.png);
 	background-repeat: no-repeat;
 	color: #FFFFFF;
 	display: block;
@@ -1372,7 +1372,7 @@ body p.ja-typo-icon {
 }
 
 body p.ja-typo-icon span.icon {
-	background-image: url(../../../../../../../20160419202347im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons-sprites-silk1.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons-sprites-silk1.png);
 	background-repeat: no-repeat;
 	width: 16px;
 	height: 16px;
@@ -1578,7 +1578,7 @@ body p.icon-tips {
 	left: 28px;
 	width: 25px;
 	height: 25px;
-	background: url(../../../../../../../20160419202353im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/bubble-arrow.png) 0 0;
+	background: url(/plugins/system/jatypo/typo/images/bubble-arrow.png) 0 0;
 }
 
 /* Style 2 --- */
@@ -1653,11 +1653,11 @@ body p.box-download,body p.box-sticky {
 }
 
 body p.box-download {
-	background-image: url(../../../../../../../20160419202440im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/download-big.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/download-big.png);
 }
 
 body p.box-sticky {
-	background-image: url(../../../../../../../20160419202407im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/sticky-big.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/sticky-big.png);
 }
 
 /* Box without icons - Style 1*/
@@ -1760,7 +1760,7 @@ a.ja-typo-btn {
 	color: #333;
 	float: left;
 	text-shadow: 0 1px 2px rgba(255, 255, 255, .8);
-	background: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/grad-l1-trans.png) repeat-x top #ddd;
+	background: url(/plugins/system/jatypo/typo/images/grad-l1-trans.png) repeat-x top #ddd;
 	box-shadow: 0 0 3px rgba(0, 0, 0, .5);
 	-moz-box-shadow: 0 0 3px rgba(0, 0, 0, .5);
 	-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .5);
@@ -1797,23 +1797,23 @@ a.ja-typo-btn-icn span {
 }
 
 a.btn-icn-save span {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/disk.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/disk.png);
 }
 
 a.btn-icn-tip span {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/lightbulb.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/lightbulb.png);
 }
 
 a.btn-icn-info span {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/information.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/information.png);
 }
 
 a.btn-icn-ok span {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/tick.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/tick.png);
 }
 
 a.btn-icn-warning span {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/icons/exclamation.png);
+	background-image: url(/plugins/system/jatypo/typo/images/icons/exclamation.png);
 }
 
 a.ja-typo-btn-icn span span {
@@ -1857,7 +1857,7 @@ a.ja-typo-btn-sm span {
 /* Common style for Dark Buttons --- */
 .typo a.btn-blue,.typo a.btn-red,.typo a.btn-green,.typo a.btn-orange,.typo a.btn-black,.typo a.btn-blue:link,.typo a.btn-red:link,.typo a.btn-green:link,.typo a.btn-orange:link,.typo a.btn-black:link,a.btn-blue,a.btn-red,a.btn-green,a.btn-orange,a.btn-black
 	{
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/grad-d1-trans.png);
+	background-image: url(/plugins/system/jatypo/typo/images/grad-d1-trans.png);
 	color: #fff;
 	border: 1px solid #ccc;
 	text-shadow: 0 1px 2px rgba(0, 0, 0, .8);
@@ -1865,7 +1865,7 @@ a.ja-typo-btn-sm span {
 
 a.btn-blue:hover,a.btn-blue:active,a.btn-blue:focus,a.btn-red:hover,a.btn-red:active,a.btn-red:focus,a.btn-green:hover,a.btn-green:active,a.btn-green:focus,a.btn-orange:hover,a.btn-orange:active,a.btn-orange:focus,a.btn-black:hover,a.btn-black:active,a.btn-black:focus
 	{
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/grad-d1-trans.png);
+	background-image: url(/plugins/system/jatypo/typo/images/grad-d1-trans.png);
 	background-position: bottom;
 	border-color: #aaa;
 }
@@ -2005,7 +2005,7 @@ span.tag-rounded {
 --------------------------------------------------*/
 /* Badge ---*/
 .badge {
-	background-image: url(../../../../../../../20160419073424im_/http_/www.everestpeaceproject.org/plugins/system/jatypo/typo/images/badge.png);
+	background-image: url(/plugins/system/jatypo/typo/images/badge.png);
 	background-repeat: no-repeat;
 	height: 46px;
 	position: absolute;
