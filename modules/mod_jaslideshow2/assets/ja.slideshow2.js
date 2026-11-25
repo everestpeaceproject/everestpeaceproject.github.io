@@ -201,8 +201,8 @@ var JASlideshow2 = new Class({
 }
 
 /*
-     FILE ARCHIVED ON 08:08:21 Jan 14, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 22:23:46 Nov 24, 2026.
+     FILE ARCHIVED ON 01:24:32 Feb 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:31:58 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -210,8 +210,8 @@ var JASlideshow2 = new Class({
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.579
-  load_resource: 113.065
-  PetaboxLoader3.resolve: 40.129
-  PetaboxLoader3.datanode: 42.341
+  capture_cache.get: 0.575
+  load_resource: 316.001
+  PetaboxLoader3.resolve: 265.777
+  PetaboxLoader3.datanode: 30.148
 */

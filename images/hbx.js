@@ -123,8 +123,8 @@ _EV(window,"load",_X);_EV(window,"unload",_FU);setTimeout("_X()",3000);
 }
 
 /*
-     FILE ARCHIVED ON 07:52:31 Jan 14, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 22:24:22 Nov 24, 2026.
+     FILE ARCHIVED ON 23:20:24 Feb 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:13:21 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -132,8 +132,8 @@ _EV(window,"load",_X);_EV(window,"unload",_FU);setTimeout("_X()",3000);
 */
 /*
 playback timings (ms):
-  capture_cache.get: 1.931
-  load_resource: 175.323
-  PetaboxLoader3.resolve: 58.146
-  PetaboxLoader3.datanode: 99.439
+  capture_cache.get: 0.486
+  load_resource: 73.749
+  PetaboxLoader3.resolve: 36.444
+  PetaboxLoader3.datanode: 18.099
 */

@@ -48,13 +48,13 @@ window.addEventListener("load", function() {
         var idx = 0;
         for (var i = 0; i < slides.length; i++) {
             slides[i].style.opacity = (i === 0) ? "1" : "0";
-            slides[i].style.transition = "opacity 0.8s ease-in-out";
+            slides[i].style.transition = "opacity 0.4s ease-in-out";
         }
         setInterval(function() {
             slides[idx].style.opacity = "0";
             idx = (idx + 1) % slides.length;
             slides[idx].style.opacity = "1";
-        }, 4000);
+        }, 2500);
     }
 });
 </script>
@@ -66,5 +66,8 @@ window.addEventListener("load", function() {
 
 <!-- Mirrored from /component/mailto/?tmpl=component&link=aHR0cDovL3d3dy5ldmVyZXN0cGVhY2Vwcm9qZWN0Lm9yZy9hYm91dC9raWRzLWZvci1wZWFjZS5odG1s by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 21:34:45 GMT -->
 </HTML>
+
+
+
 
 

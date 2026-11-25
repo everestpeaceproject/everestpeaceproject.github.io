@@ -1,4 +1,4 @@
-﻿/*------------------------------------------------------------------------
+/*------------------------------------------------------------------------
 # JA Opal for Joomla 1.5 - Version 1.0 - Licence Owner JA160963
 # ------------------------------------------------------------------------
 # Copyright (C) 2004-2008 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
@@ -23,12 +23,12 @@ blockquote {
 }
 
 blockquote span.open {
-	background: url(/templates/ja_opal/images/so-q.gif) no-repeat left top;
+	background: url(../../../../../../20160419202343im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/so-q.gif) no-repeat left top;
 	padding: 2px 0 2px 25px;
 }
 
 blockquote span.close {
-	background: url(/templates/ja_opal/images/sc-q.gif) no-repeat bottom right;
+	background: url(../../../../../../20160419202336im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/sc-q.gif) no-repeat bottom right;
 	padding: 2px 25px 2px 0;
 }
 
@@ -43,25 +43,25 @@ blockquote span.close {
 
 /* Tips, Error, Message, Hightlight*/
 p.error {
-	background: url(/templates/ja_opal/images/icon-error.png) no-repeat 0px 0px;
+	background: url(../../../../../../20160419202342im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-error.png) no-repeat 0px 0px;
 	color: #CC0000;
 	padding-left: 25px;
 }
 
 p.message {
-	background: url(/templates/ja_opal/images/icon-info.png) no-repeat 0px 0px;
+	background: url(../../../../../../20160419202339im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-info.png) no-repeat 0px 0px;
 	color: #00AFF0;
 	padding-left: 25px;
 }
 
 p.tips {
-	background: url(/templates/ja_opal/images/icon-tips.png) no-repeat 0px 0px;
+	background: url(../../../../../../20160419202335im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-tips.png) no-repeat 0px 0px;
 	color: #F99412;
 	padding-left: 25px;
 }
 
 p.feed {
-	background: url(/templates/ja_opal/images/icon-rss.gif) no-repeat 0px 0px;
+	background: url(../../../../../../20160419202344im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-rss.gif) no-repeat 0px 0px;
 	padding: 3px 0 3px 25px;
 }
 
@@ -74,13 +74,13 @@ p.feed {
 
 /* Note Style */
 p.stickynote {
-	background: url(/templates/ja_opal/images/icon-sticky.png) no-repeat left top #F7F6F5;
+	background: url(../../../../../../20160419202340im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-sticky.png) no-repeat left top #F7F6F5;
 	border: 1px solid #CCCCCC;
 	padding: 15px 10px 15px 60px;
 }
 
 p.download {
-	background: url(/templates/ja_opal/images/icon-download.png) no-repeat left top #F7F6F5;
+	background: url(../../../../../../20160419202339im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-download.png) no-repeat left top #F7F6F5;
 	border: 1px solid #CCCCCC;
 	padding: 15px 10px 15px 60px;
 }
@@ -97,7 +97,7 @@ ul.checklist {
 }
 
 ul.checklist li {
-	background: url(/templates/ja_opal/images/icon-checklist.gif) no-repeat 0 4px !important;
+	background: url(../../../../../../20160419202342im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-checklist.gif) no-repeat 0 4px !important;
 	margin-left: 15px !important;
 	padding: 0 0 0 20px !important;
 }
@@ -108,14 +108,14 @@ ul.arrow {
 }
 
 ul.arrow li {
-	background: url(/templates/ja_opal/images/icon-arrow.gif) no-repeat 3px 5px;
+	background: url(../../../../../../20160419202336im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/icon-arrow.gif) no-repeat 3px 5px;
 	margin-left: 15px;
 	padding: 0 0 0 20px;
 }
 
 /* Bignumber */
 .bignumber {
-	background: url(/templates/ja_opal/images/ol-bg.gif) no-repeat top left;
+	background: url(../../../../../../20160419202335im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/ol-bg.gif) no-repeat top left;
 	color: #FFFFFF;
 	display: block;
 	float: left;
@@ -139,21 +139,21 @@ div.bubble4 span.author {
 }
 
 div.bubble1 div {
-	background: url(/templates/ja_opal/images/bub1-br.gif) no-repeat bottom right;
+	background: url(../../../../../../20160419202337im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub1-br.gif) no-repeat bottom right;
 	margin: 0;
 	width: 100%;
 }
 
 div.bubble1 div div {
-	background: url(/templates/ja_opal/images/bub1-bl.gif) no-repeat bottom left;
+	background: url(../../../../../../20160419202339im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub1-bl.gif) no-repeat bottom left;
 }
 
 div.bubble1 div div div {
-	background: url(/templates/ja_opal/images/bub1-tr.gif) no-repeat top right;
+	background: url(../../../../../../20160419202343im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub1-tr.gif) no-repeat top right;
 }
 
 div.bubble1 div div div div {
-	background: url(/templates/ja_opal/images/bub1-tl.gif) no-repeat top left;
+	background: url(../../../../../../20160419202344im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub1-tl.gif) no-repeat top left;
 }
 
 div.bubble1 div div div div div {
@@ -163,21 +163,21 @@ div.bubble1 div div div div div {
 }
 
 div.bubble2 div {
-	background: url(/templates/ja_opal/images/bub2-br.gif) no-repeat bottom right;
+	background: url(../../../../../../20160419202341im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub2-br.gif) no-repeat bottom right;
 	margin: 0;
 	width: 100%;
 }
 
 div.bubble2 div div {
-	background: url(/templates/ja_opal/images/bub2-bl.gif) no-repeat bottom left;
+	background: url(../../../../../../20160419202344im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub2-bl.gif) no-repeat bottom left;
 }
 
 div.bubble2 div div div {
-	background: url(/templates/ja_opal/images/bub2-tr.gif) no-repeat top right;
+	background: url(../../../../../../20160419202337im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub2-tr.gif) no-repeat top right;
 }
 
 div.bubble2 div div div div {
-	background: url(/templates/ja_opal/images/bub2-tl.gif) no-repeat top left;
+	background: url(../../../../../../20160419202342im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub2-tl.gif) no-repeat top left;
 }
 
 div.bubble2 div div div div div {
@@ -187,21 +187,21 @@ div.bubble2 div div div div div {
 }
 
 div.bubble3 div {
-	background: url(/templates/ja_opal/images/bub3-br.gif) no-repeat bottom right;
+	background: url(../../../../../../20160419202334im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub3-br.gif) no-repeat bottom right;
 	margin: 0;
 	width: 100%;
 }
 
 div.bubble3 div div {
-	background: url(/templates/ja_opal/images/bub3-bl.gif) no-repeat bottom left;
+	background: url(../../../../../../20160419202343im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub3-bl.gif) no-repeat bottom left;
 }
 
 div.bubble3 div div div {
-	background: url(/templates/ja_opal/images/bub3-tr.gif) no-repeat top right;
+	background: url(../../../../../../20160419202340im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub3-tr.gif) no-repeat top right;
 }
 
 div.bubble3 div div div div {
-	background: url(/templates/ja_opal/images/bub3-tl.gif) no-repeat top left;
+	background: url(../../../../../../20160419202343im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub3-tl.gif) no-repeat top left;
 }
 
 div.bubble3 div div div div div {
@@ -211,21 +211,21 @@ div.bubble3 div div div div div {
 }
 
 div.bubble4 div {
-	background: url(/templates/ja_opal/images/bub4-br.gif) no-repeat bottom right;
+	background: url(../../../../../../20160419202338im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub4-br.gif) no-repeat bottom right;
 	margin: 0;
 	width: 100%;
 }
 
 div.bubble4 div div {
-	background: url(/templates/ja_opal/images/bub4-bl.gif) no-repeat bottom left;
+	background: url(../../../../../../20160419202339im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub4-bl.gif) no-repeat bottom left;
 }
 
 div.bubble4 div div div {
-	background: url(/templates/ja_opal/images/bub4-tr.gif) no-repeat top right;
+	background: url(../../../../../../20160419202338im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub4-tr.gif) no-repeat top right;
 }
 
 div.bubble4 div div div div {
-	background: url(/templates/ja_opal/images/bub4-tl.gif) no-repeat top left;
+	background: url(../../../../../../20160419202335im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/bub4-tl.gif) no-repeat top left;
 }
 
 div.bubble4 div div div div div {
@@ -256,8 +256,8 @@ div.bubble4 div div div div div {
 	position: relative;
 }
 /*
-     FILE ARCHIVED ON 07:34:21 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:52 Nov 24, 2026.
+     FILE ARCHIVED ON 01:45:13 Feb 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:12:12 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -265,9 +265,8 @@ div.bubble4 div div div div div {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.762
-  load_resource: 105.191
-  PetaboxLoader3.resolve: 54.428
-  PetaboxLoader3.datanode: 48.479
+  capture_cache.get: 0.518
+  load_resource: 267.507
+  PetaboxLoader3.resolve: 200.088
+  PetaboxLoader3.datanode: 33.124
 */
-
