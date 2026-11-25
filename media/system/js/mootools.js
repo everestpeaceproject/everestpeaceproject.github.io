@@ -110,8 +110,8 @@ return this;},display:function(index){index=($type(index)=='element')?this.eleme
 }
 
 /*
-     FILE ARCHIVED ON 07:34:35 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:49 Nov 24, 2026.
+     FILE ARCHIVED ON 08:08:38 Jan 14, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:23:07 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -119,8 +119,8 @@ return this;},display:function(index){index=($type(index)=='element')?this.eleme
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.358
-  load_resource: 96.447
-  PetaboxLoader3.resolve: 65.61
-  PetaboxLoader3.datanode: 29.34
+  capture_cache.get: 0.477
+  load_resource: 1236.975
+  PetaboxLoader3.resolve: 53.816
+  PetaboxLoader3.datanode: 1025.899
 */

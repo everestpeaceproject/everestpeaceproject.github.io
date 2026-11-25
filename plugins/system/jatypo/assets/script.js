@@ -70,8 +70,8 @@ function findPos (obj) {
 }
 
 /*
-     FILE ARCHIVED ON 07:34:28 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:49 Nov 24, 2026.
+     FILE ARCHIVED ON 19:55:47 Mar 05, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:13:24 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -79,8 +79,8 @@ function findPos (obj) {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.543
-  load_resource: 65.169
-  PetaboxLoader3.resolve: 36.332
-  PetaboxLoader3.datanode: 27.114
+  capture_cache.get: 0.41
+  load_resource: 169.917
+  PetaboxLoader3.resolve: 117.121
+  PetaboxLoader3.datanode: 31.126
 */

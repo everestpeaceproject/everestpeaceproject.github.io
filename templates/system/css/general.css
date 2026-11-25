@@ -68,7 +68,7 @@ label.invalid { color: #ff0000; }
 }
 
 .button2-right {
-	background: url(/templates/system/images/j_button2_right.png) 100% 0 no-repeat;
+	background: url(/templates/system/images/j_button2_right.html) 100% 0 no-repeat;
 	float: left;
 	margin-left: 5px;
 }
@@ -147,8 +147,8 @@ a img.calendar {
 }
 
 /*
-     FILE ARCHIVED ON 07:34:36 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:51 Nov 24, 2026.
+     FILE ARCHIVED ON 07:47:26 Jan 14, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:23:10 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -156,9 +156,8 @@ a img.calendar {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.507
-  load_resource: 95.45
-  PetaboxLoader3.resolve: 41.971
-  PetaboxLoader3.datanode: 52.337
+  capture_cache.get: 0.546
+  load_resource: 97.328
+  PetaboxLoader3.resolve: 45.841
+  PetaboxLoader3.datanode: 22.67
 */
-
