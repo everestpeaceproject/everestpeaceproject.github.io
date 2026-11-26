@@ -48,28 +48,40 @@ body#bd, body {
 .ja-slide-item { display: block !important; visibility: visible !important; position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 300px !important; }
 .ja-slide-item img { width: 100% !important; height: 300px !important; object-fit: cover !important; display: block !important; }
 </style>
+
+<style type="text/css">
+html, body, body#bd {
+    background: #1B242B url('/templates/ja_opal/images/body-bg.png') no-repeat center top fixed !important;
+    background-size: cover !important;
+}
+</style>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /templates/ja_opal/images/container-bg.png was not found on this server.</p>
+<hr>
+<address>Apache/2.0.52 (Red Hat) Server at www.mikekreaden.whsites.net Port 80</address>
 <script type="text/javascript">
 window.addEventListener("load", function() {
     var slides = document.querySelectorAll("#ja-slide-44 .ja-slide-item");
     if (slides.length > 0) {
         var idx = 0;
         for (var i = 0; i < slides.length; i++) {
+            slides[i].style.position = "absolute";
+            slides[i].style.top = "0";
+            slides[i].style.left = "0";
+            slides[i].style.width = "100%";
+            slides[i].style.height = "300px";
             slides[i].style.opacity = (i === 0) ? "1" : "0";
-            slides[i].style.transition = "opacity 0.6s ease-in-out";
+            slides[i].style.transition = "opacity 0.8s ease-in-out";
         }
         setInterval(function() {
             slides[idx].style.opacity = "0";
             idx = (idx + 1) % slides.length;
             slides[idx].style.opacity = "1";
-        }, 3500);
+        }, 5000);
     }
 });
 </script>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /templates/ja_opal/images/container-bg.png was not found on this server.</p>
-<hr>
-<address>Apache/2.0.52 (Red Hat) Server at www.mikekreaden.whsites.net Port 80</address>
 </body></html>
 <!--
      FILE ARCHIVED ON 20:24:58 Apr 19, 2016 AND RETRIEVED FROM THE
@@ -86,6 +98,7 @@ playback timings (ms):
   PetaboxLoader3.resolve: 24.758
   PetaboxLoader3.datanode: 32.863
 -->
+
 
 
 

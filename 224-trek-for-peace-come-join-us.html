@@ -101,23 +101,13 @@ body#bd, body {
 .ja-slide-item { display: block !important; visibility: visible !important; position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 300px !important; }
 .ja-slide-item img { width: 100% !important; height: 300px !important; object-fit: cover !important; display: block !important; }
 </style>
-<script type="text/javascript">
-window.addEventListener("load", function() {
-    var slides = document.querySelectorAll("#ja-slide-44 .ja-slide-item");
-    if (slides.length > 0) {
-        var idx = 0;
-        for (var i = 0; i < slides.length; i++) {
-            slides[i].style.opacity = (i === 0) ? "1" : "0";
-            slides[i].style.transition = "opacity 0.6s ease-in-out";
-        }
-        setInterval(function() {
-            slides[idx].style.opacity = "0";
-            idx = (idx + 1) % slides.length;
-            slides[idx].style.opacity = "1";
-        }, 3500);
-    }
-});
-</script>
+
+<style type="text/css">
+html, body, body#bd {
+    background: #1B242B url('/templates/ja_opal/images/body-bg.png') no-repeat center top fixed !important;
+    background-size: cover !important;
+}
+</style>
 </head>
   <body class="navia">
 
@@ -2752,9 +2742,32 @@ window.addEventListener("load", function() {
         </p>
       </div>
     </footer>
-  </body>
+  <script type="text/javascript">
+window.addEventListener("load", function() {
+    var slides = document.querySelectorAll("#ja-slide-44 .ja-slide-item");
+    if (slides.length > 0) {
+        var idx = 0;
+        for (var i = 0; i < slides.length; i++) {
+            slides[i].style.position = "absolute";
+            slides[i].style.top = "0";
+            slides[i].style.left = "0";
+            slides[i].style.width = "100%";
+            slides[i].style.height = "300px";
+            slides[i].style.opacity = (i === 0) ? "1" : "0";
+            slides[i].style.transition = "opacity 0.8s ease-in-out";
+        }
+        setInterval(function() {
+            slides[idx].style.opacity = "0";
+            idx = (idx + 1) % slides.length;
+            slides[idx].style.opacity = "1";
+        }, 5000);
+    }
+});
+</script>
+</body>
 
 <!-- Mirrored from https://web.archive.org/web/20160530144247*//component/content/article/49-everest-trek-for-peace/224-trek-for-peace-come-join-us.html by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 21:36:54 GMT -->
 </html>
+
 
 
