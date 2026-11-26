@@ -58,6 +58,81 @@ img {border: none;}
 </style>
 <![endif]-->
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style id="epp-responsive" type="text/css">
+/* Desktop (> 960px) stays 100% identical; Tablet & Phone (<= 960px) automatically fit screen */
+@media screen and (max-width: 960px) {
+    html, body, body#bd {
+        width: 100% !important;
+        overflow-x: hidden !important;
+        background-attachment: scroll !important;
+    }
+    #ja-wrapper, #ja-headerwrap, #ja-header, #ja-mainnavwrap, #ja-mainnav,
+    #ja-topslwrap, #ja-topsl, #ja-pathwaywrap, #ja-pathway,
+    #ja-containerwrap, #ja-container, #ja-containerwrap-fr, #ja-container-fr,
+    #ja-botslwrap, #ja-botsl, #ja-footerwrap, #ja-footer, .main {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+        box-sizing: border-box !important;
+        padding-left: 8px !important;
+        padding-right: 8px !important;
+    }
+    /* Make top banner logo shrink cleanly on phone/tablet */
+    #ja-header img, .banneritem img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+    /* Wrap navigation buttons neatly into rows on mobile/tablet */
+    #ja-mainnav {
+        height: auto !important;
+    }
+    #ja-cssmenu {
+        height: auto !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+    }
+    #ja-cssmenu > li {
+        height: auto !important;
+        border-bottom: 1px solid #1E1E1E !important;
+    }
+    #ja-cssmenu > li > a {
+        padding: 0 10px !important;
+        font-size: 11px !important;
+    }
+    /* Stack Slideshow and Lance Trumbull card vertically on phone/tablet */
+    #ja-topsl .main > div {
+        flex-direction: column !important;
+    }
+    #ja-topsl .main > div > #ja-slideshow,
+    #ja-topsl .main > div > div:not(#ja-slideshow) {
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 1 1 100% !important;
+    }
+    #ja-slide-44, .ja-slidewrap, .ja-slide-main-wrap, .ja-slide-main, .ja-slide-item, .ja-slide-item img {
+        height: 210px !important;
+    }
+    /* Stack main content and right sidebar cleanly on phone/tablet */
+    #ja-mainbody, #ja-contentwrap, #ja-content, #ja-col1, #ja-col2, #ja-current-content {
+        width: 100% !important;
+        max-width: 100% !important;
+        float: none !important;
+        margin: 0 0 14px 0 !important;
+        padding: 0 !important;
+    }
+    /* Make all article images, tables, and sponsor logos fit phone screens */
+    img, table, iframe {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+    td, tr {
+        display: block !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}
+</style>
 </head>
 <body id="bd" class="  fs3">
  
@@ -416,3 +491,4 @@ playback timings (ms):
   PetaboxLoader3.resolve: 39.478
   nav: 0.171 (6)
 -->
+
