@@ -41,8 +41,8 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 }
 
 /*
-     FILE ARCHIVED ON 07:34:35 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:54 Nov 24, 2026.
+     FILE ARCHIVED ON 06:06:08 Feb 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:12:16 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -50,8 +50,8 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.455
-  load_resource: 52.731
-  PetaboxLoader3.resolve: 27.553
-  PetaboxLoader3.datanode: 23.695
+  capture_cache.get: 1.695
+  load_resource: 159.921
+  PetaboxLoader3.resolve: 55.275
+  PetaboxLoader3.datanode: 81.474
 */

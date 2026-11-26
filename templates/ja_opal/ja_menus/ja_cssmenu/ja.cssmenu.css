@@ -1,4 +1,4 @@
-﻿/*------------------------------------------------------------------------
+/*------------------------------------------------------------------------
 
 # JA Opal for Joomla 1.5 - Version 1.0 - Licence Owner JA160963
 
@@ -158,7 +158,7 @@ The second part will define the visual look for this menu.
 
 #ja-cssmenu li a {
 
-	background: url(/templates/ja_opal/images/mainnav-sep.gif) no-repeat right top;
+	background: url(../../../../../../../20160115041052im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/mainnav-sep.gif) no-repeat right top;
 
 	display: block;
 
@@ -187,7 +187,7 @@ The second part will define the visual look for this menu.
 
 	color: #FFFFFF;
 	/*background-color:#e27f1d;*/
-	background: url(/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;
+	background: url(../../../../../../../20160114222248im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;
 }
 
 
@@ -208,7 +208,7 @@ The second part will define the visual look for this menu.
 
 #ja-cssmenu li.active {
 
-	background: url(/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;	
+	background: url(../../../../../../../20160114222248im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;	
 
 }
 
@@ -216,7 +216,7 @@ The second part will define the visual look for this menu.
 
 #ja-cssmenu li.active a {
 
-	background: url(/templates/ja_opal/images/mainnav-active-l.gif) no-repeat left top;
+	background: url(../../../../../../../20160114220657im_/http_/www.everestpeaceproject.org/templates/ja_opal/images/mainnav-active-l.gif) no-repeat left top;
 
 	color: #FFFFFF;
 
@@ -242,7 +242,7 @@ The second part will define the visual look for this menu.
 
 	border: 1px solid #202020;
 
-	/*background: url(/web/20160419073428im_/http://www.everestpeaceproject.org/templates/ja_opal/images/trans-bg.png);*/
+	/*background: url(/web/20160211210116im_/http://everestpeaceproject.org/templates/ja_opal/images/trans-bg.png);*/
 	background-color:#4a4744;
 
 }
@@ -297,7 +297,7 @@ The second part will define the visual look for this menu.
 
 #ja-cssmenu li.havesubchild-active {
 
-	background: url(/templates/ja_opal/ja_menus/ja_cssmenu/img/arrow-1.gif) no-repeat 95% 50%;
+	background: url(../../../../../../../20160114215533im_/http_/www.everestpeaceproject.org/templates/ja_opal/ja_menus/ja_cssmenu/img/arrow-1.gif) no-repeat 95% 50%;
 
 }
 
@@ -355,8 +355,8 @@ The second part will define the visual look for this menu.
 
 }
 /*
-     FILE ARCHIVED ON 07:34:28 Apr 19, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:00:53 Nov 24, 2026.
+     FILE ARCHIVED ON 21:01:16 Feb 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:12:15 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -364,7 +364,8 @@ The second part will define the visual look for this menu.
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.336
-  load_resource: 20.322
-  PetaboxLoader3.datanode: 19.455
+  capture_cache.get: 0.867
+  load_resource: 1152.735
+  PetaboxLoader3.resolve: 1075.328
+  PetaboxLoader3.datanode: 40.576
 */
