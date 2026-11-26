@@ -437,8 +437,8 @@ var animMoveVir = new Class ({
 }
 
 /*
-     FILE ARCHIVED ON 13:14:24 Feb 12, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:12:07 Nov 24, 2026.
+     FILE ARCHIVED ON 07:34:28 Apr 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:00:50 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -446,8 +446,8 @@ var animMoveVir = new Class ({
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.606
-  load_resource: 82.833
-  PetaboxLoader3.resolve: 31.909
-  PetaboxLoader3.datanode: 32.873
+  capture_cache.get: 8.257
+  load_resource: 93.184
+  PetaboxLoader3.resolve: 45.836
+  PetaboxLoader3.datanode: 46.477
 */

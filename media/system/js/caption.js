@@ -71,8 +71,8 @@ window.addEvent('load', function() {
 }
 
 /*
-     FILE ARCHIVED ON 04:43:13 Feb 12, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:12:05 Nov 24, 2026.
+     FILE ARCHIVED ON 07:34:30 Apr 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:00:50 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -80,8 +80,7 @@ window.addEvent('load', function() {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 1.381
-  load_resource: 137.123
-  PetaboxLoader3.resolve: 34.142
-  PetaboxLoader3.datanode: 56.631
+  capture_cache.get: 0.29
+  load_resource: 51.9
+  PetaboxLoader3.datanode: 51.139
 */
