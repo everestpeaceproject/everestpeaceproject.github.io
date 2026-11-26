@@ -46,10 +46,38 @@ body#bd, body {
 .ja-slide-item img { width: 100% !important; height: 300px !important; object-fit: cover !important; display: block !important; }
 </style>
 
+
 <style type="text/css">
 html, body, body#bd {
     background: #1B242B url('/templates/ja_opal/images/body-bg.png') no-repeat center top fixed !important;
     background-size: cover !important;
+}
+/* Keep horizontal dropdown behavior without overriding JA Opal's original button look */
+#ja-cssmenu li ul { display: none; position: absolute; z-index: 99999; }
+#ja-cssmenu li:hover > ul { display: block; }
+#ja-slide-44, .ja-slidewrap, .ja-slide-main-wrap, .ja-slide-main {
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: block !important;
+    position: relative !important;
+    width: 100% !important;
+    height: 300px !important;
+    overflow: hidden !important;
+}
+.ja-slide-item {
+    display: block !important;
+    visibility: visible !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 300px !important;
+}
+.ja-slide-item img {
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover !important;
+    display: block !important;
 }
 </style>
 </head>
@@ -82,6 +110,7 @@ window.addEventListener("load", function() {
 
 <!-- Mirrored from /component/mailto/?tmpl=component&link=aHR0cDovL3d3dy5ldmVyZXN0cGVhY2Vwcm9qZWN0Lm9yZy9hYm91dC9raWRzLWZvci1wZWFjZS5odG1s by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 21:34:45 GMT -->
 </HTML>
+
 
 
 

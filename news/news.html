@@ -85,10 +85,38 @@ body#bd, body {
 .ja-slide-item img { width: 100% !important; height: 300px !important; object-fit: cover !important; display: block !important; }
 </style>
 
+
 <style type="text/css">
 html, body, body#bd {
     background: #1B242B url('/templates/ja_opal/images/body-bg.png') no-repeat center top fixed !important;
     background-size: cover !important;
+}
+/* Keep horizontal dropdown behavior without overriding JA Opal's original button look */
+#ja-cssmenu li ul { display: none; position: absolute; z-index: 99999; }
+#ja-cssmenu li:hover > ul { display: block; }
+#ja-slide-44, .ja-slidewrap, .ja-slide-main-wrap, .ja-slide-main {
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: block !important;
+    position: relative !important;
+    width: 100% !important;
+    height: 300px !important;
+    overflow: hidden !important;
+}
+.ja-slide-item {
+    display: block !important;
+    visibility: visible !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 300px !important;
+}
+.ja-slide-item img {
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover !important;
+    display: block !important;
 }
 </style>
 </head>
@@ -686,7 +714,7 @@ obj.attachButton(x);
 <td><a href="https://web.archive.org/web/20160308102637/http://www.facebook.com/album.php?aid=15136&amp;id=126279934060683&amp;saved#!/pages/The-Everest-Peace-Project/126279934060683" target="_blank" title="Follow Everest Peace Project on Facebook"><img src="/images/stories/icon-facebook.png" border="0" width="32" height="32"/></a></td>
 <td><a href="https://web.archive.org/web/20160308102637/https://twitter.com/EverestPeace" target="_blank" title="Following the Everest Peace Project on Twitter"><img src="/images/stories/icon-twitter.png" border="0"/></a></td>
 <td><a href="https://web.archive.org/web/20160308102637/http://www.youtube.com/watch?v=uaeZ5DynpsI" title="You Tube"><img src="/images/stories/icon-youtube.png" border="0" width="32" height="32"/></a></td>
-<td><a href="../wpress/index.html" target="_blank" title="Read Filmmaker's Blog - Lance Trumbull"><img src="/images/stories/icon_wordpress.png" border="0" alt="Filmmaker Blog - Lance  Trumbull" title="Filmmaker Blog - Lance Trumbull"/></a></td>
+<td><a href="../wpress/index.html" target="_blank" title="Read Filmmaker's Blog - Lance Trumbull"><img src="/images/stories/icon_wordpress.png" border="0" alt="Filmmaker Blog - Lance  Trumbull" title="Filmmaker Blog - Lance Trumbull"/></a><div style="text-align:center; padding: 18px 0; font-family: Georgia, serif;"><div style="font-size: 22px; font-weight: bold; color: #000;">404 Not Found</div><div style="font-size: 11px; color: #333; margin-top: 8px; border-top: 1px solid #999; padding-top: 4px;">nginx</div></div></td>
 <td><a href="https://web.archive.org/web/20160308102637/http://www.flickr.com/photos/everestpeaceproject/show/" target="_blank" title="Subscribe to Everest Peace Project RSS Feed"><img src="/images/stories/icons/flickr.png" border="0" alt="Check out Recent Photos on Flickr" title="Check out Recent Photos on Flickr"/></a><br/></td>
 <td><br/></td>
 </tr>
@@ -828,5 +856,6 @@ playback timings (ms):
   PetaboxLoader3.resolve: 44.624
   PetaboxLoader3.datanode: 36.997
 -->
+
 
 
