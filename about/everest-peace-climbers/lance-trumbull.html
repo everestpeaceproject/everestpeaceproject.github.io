@@ -222,7 +222,14 @@ div.moduletable h3, div.moduletable_menu h3, div.moduletable_text h3,
 #ja-cssmenu li:hover > ul { display: block; }
 </style>
 <style id="epp-top-match" type="text/css">
-/* 1. Top Navigation Bar matching image_Vf_JNq.png */
+/* 1. Dark translucent bar behind the top EPP logo header */
+#ja-headerwrap, #ja-header {
+    width: 960px !important;
+    margin: 0 auto !important;
+    background: rgba(20, 24, 28, 0.85) !important;
+}
+
+/* 2. Top Navigation Bar (Tahoma 11px bold, glossy orange active tab) */
 #ja-mainnavwrap { width: 960px !important; margin: 0 auto !important; background: none !important; }
 #ja-mainnav {
     width: 960px !important;
@@ -332,58 +339,55 @@ div.moduletable h3, div.moduletable_menu h3, div.moduletable_text h3,
 #ja-cssmenu li ul li a:hover, #ja-cssmenu li ul li:hover > a { background: #D45500 !important; color: #FFFFFF !important; }
 #ja-cssmenu li ul li ul { top: -2px !important; left: 225px !important; }
 
-/* 2. Dark Charcoal Hero Spotlight Frame & Right Lance Trumbull Card */
+/* 3. Fix Hero Spotlight Box so Slideshow (left) and Lance Trumbull Card (right) sit side-by-side cleanly */
 #ja-topsl, #ja-topslwrap {
     width: 960px !important;
     margin: 0 auto !important;
     background: #262626 !important;
-    color: #CCCCCC !important;
-    font-family: Tahoma, Geneva, Arial, sans-serif !important;
-    font-size: 11.5px !important;
-    line-height: 1.5 !important;
+    height: auto !important;
+    overflow: hidden !important;
+    clear: both !important;
 }
 #ja-topsl .main {
     width: 960px !important;
     padding: 10px !important;
     box-sizing: border-box !important;
     background: #262626 !important;
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: flex-start !important;
-    gap: 12px !important;
+    overflow: hidden !important;
 }
 #ja-slideshow {
-    width: 650px !important;
-    flex: 0 0 650px !important;
+    float: left !important;
+    width: 645px !important;
     margin: 0 !important;
     padding: 0 !important;
+    position: relative !important;
 }
-#ja-topsl .ja-box-right, #ja-topsl #ja-box-right {
-    width: 278px !important;
-    flex: 0 0 278px !important;
+#ja-topsl .ja-box-right, #ja-topsl #ja-box-right, #ja-topsl .ja-box-full {
+    float: right !important;
+    width: 280px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    position: static !important;
     color: #CCCCCC !important;
     font-family: Tahoma, Geneva, Arial, sans-serif !important;
+    font-size: 11.5px !important;
+    line-height: 1.45 !important;
 }
 #ja-topsl .ja-box-right img {
     border: 3px solid #D45500 !important;
     box-sizing: border-box !important;
-    max-width: 100% !important;
+    width: 100% !important;
     height: auto !important;
     display: block !important;
-    margin-bottom: 10px !important;
+    margin-bottom: 8px !important;
 }
-#ja-topsl .ja-box-right a {
-    color: #FFFFFF !important;
-    text-decoration: none !important;
-}
-#ja-topsl .ja-box-right a:hover {
-    color: #FA9632 !important;
-}
+#ja-topsl .ja-box-right a { color: #FFFFFF !important; text-decoration: none !important; }
 
-/* 3. Light Gray Breadcrumb ("You are here: Home") & Search Strip */
+/* 4. Breadcrumb ("You are here: Home") & Search Strip */
 #ja-pathway, #ja-pathwaywrap {
     width: 960px !important;
     margin: 0 auto !important;
+    clear: both !important;
     background: #DCDCDC !important;
     border-top: 1px solid #B8B8B8 !important;
     border-bottom: 1px solid #B8B8B8 !important;
@@ -393,7 +397,7 @@ div.moduletable h3, div.moduletable_menu h3, div.moduletable_text h3,
 }
 #ja-pathway a { color: #D45500 !important; text-decoration: none !important; }
 
-/* 4. Keep 8-Photo Slideshow Active & Visible */
+/* 5. Keep 8-Photo Slideshow Active & Visible */
 #ja-slide-44, .ja-slidewrap, .ja-slide-main-wrap, .ja-slide-main {
     visibility: visible !important;
     opacity: 1 !important;
@@ -3072,7 +3076,7 @@ document.addEventListener("DOMContentLoaded", function() {
             slides[idx].style.opacity = "0";
             idx = (idx + 1) % slides.length;
             slides[idx].style.opacity = "1";
-        }, 5000);
+        }, 3000);
     }
 });
 </script>
@@ -3080,6 +3084,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <!-- Mirrored from https://web.archive.org/web/20160212194559*//about/everest-peace-climbers/lance-trumbull.html by HTTrack Website Copier/3.x [XR&CO], Tue, 24 Nov 2026 21:33:54 GMT -->
 </html>
+
 
 
 
