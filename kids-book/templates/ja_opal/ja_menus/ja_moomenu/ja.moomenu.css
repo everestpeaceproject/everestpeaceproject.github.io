@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------------
+﻿/*------------------------------------------------------------------------
 # JA Opal for Joomla 1.5 - Version 1.0 - Licence Owner JA160963
 # ------------------------------------------------------------------------
 # Copyright (C) 2004-2008 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
@@ -78,7 +78,7 @@ The second part will define the visual look for this menu.
 -----------------------------------*/
 /* 1st level */
 #ja-cssmenu li a {
-	background: url(../../../../../../../20160424083617im_/http_/everestkidsbook.com/templates/ja_opal/images/mainnav-sep.gif) no-repeat right top;
+	background: url(/kids-book/templates/ja_opal/images/mainnav-sep.gif) no-repeat right top;
 	display: block;
 	text-decoration: none;
 	font-size: 110%;
@@ -102,11 +102,11 @@ The second part will define the visual look for this menu.
 }
 
 #ja-cssmenu li.active {
-	background: url(../../../../../../../20160424014503im_/http_/everestkidsbook.com/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;	
+	background: url(/kids-book/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-cssmenu li.active a {
-	background: url(../../../../../../../20160424083610im_/http_/everestkidsbook.com/templates/ja_opal/images/mainnav-active-l.gif) no-repeat left top;
+	background: url(/kids-book/templates/ja_opal/images/mainnav-active-l.gif) no-repeat left top;
 	color: #FFFFFF;
 }
 
@@ -119,7 +119,7 @@ The second part will define the visual look for this menu.
 /* 2nd level and above */
 #ja-cssmenu li ul {
 	border: 1px solid #202020;
-	background: url(../../../../../../../20160424072330im_/http_/everestkidsbook.com/templates/ja_opal/images/trans-bg.png);
+	background: url(/kids-book/templates/ja_opal/images/trans-bg.png);
 }
 
 #ja-cssmenu li ul ul {
@@ -146,7 +146,7 @@ The second part will define the visual look for this menu.
 
 #ja-cssmenu li.havesubchild,
 #ja-cssmenu li.havesubchild-active {
-	background: url(../../../../../../../20160424075704im_/http_/everestkidsbook.com/templates/ja_opal/ja_menus/ja_moomenu/img/arrow-1.gif) no-repeat 95% 50%;
+	background: url(/kids-book/templates/ja_opal/ja_menus/ja_moomenu/img/arrow-1.gif) no-repeat 95% 50%;
 }
 
 #ja-cssmenu li ul a:hover,
@@ -160,7 +160,7 @@ The second part will define the visual look for this menu.
 #ja-cssmenu ul ul li.sfhover,
 #ja-cssmenu ul ul li.havesubchildsfhover,
 #ja-cssmenu ul ul li.havesubchild-activesfhover {
-	background: url(../../../../../../../20160424070129im_/http_/everestkidsbook.com/templates/ja_opal/images/mainnav-active.gif) repeat-x left top #E27F1D;
+	background: url(/kids-book/templates/ja_opal/images/mainnav-active.gif) repeat-x left top #E27F1D;
 	color: #FFFFFF !important;
 }
 

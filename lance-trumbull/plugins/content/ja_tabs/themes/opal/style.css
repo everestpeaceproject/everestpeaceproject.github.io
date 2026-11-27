@@ -1,4 +1,4 @@
-.opal .container {
+﻿.opal .container {
 }
 
 .opal .ja-tabswrap div.ja-tab-content {	
@@ -11,7 +11,7 @@
 
 /* JA Tabs top*/
 .opal .ja-tabs-title-top {
-	background: url(../../../../../../../../20160716214611im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/title-top-bg.gif) repeat-x left bottom #444444;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/title-top-bg.gif) repeat-x left bottom #444444;
 	position: relative;
 	width: 100%;
 }
@@ -53,13 +53,13 @@
 .opal .ja-tabs-title-top ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.lastactive {
-	background: url(../../../../../../../../20160716214739im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/active-top-r.gif) no-repeat right bottom;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/active-top-r.gif) no-repeat right bottom;
 }
 
 .opal .ja-tabs-title-top ul li.active h3,
 .opal .ja-tabs-title-top ul li.firstactive h3,
 .opal .ja-tabs-title-top ul li.lastactive h3 {
-	background: url(../../../../../../../../20160716153740im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/active-top-l.gif) no-repeat left bottom;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/active-top-l.gif) no-repeat left bottom;
 	color: #444444;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .opal .ja-tabs-title-bottom {
-	background: url(../../../../../../../../20160716230702im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/title-bot-bg.gif) repeat-x left top;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/title-bot-bg.gif) repeat-x left top;
 	position: relative;
 	height: 38px;
 	z-index: 3;
@@ -106,13 +106,13 @@
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.lastactive {
-	background: url(../../../../../../../../20160717034437im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/active-bot-r.gif) no-repeat right top;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/active-bot-r.gif) no-repeat right top;
 }
 
 .opal .ja-tabs-title-bottom ul li.active h3,
 .opal .ja-tabs-title-bottom ul li.firstactive h3,
 .opal .ja-tabs-title-bottom ul li.lastactive h3 {
-	background: url(../../../../../../../../20160716224606im_/http_/lancetrumbull.com/plugins/content/ja_tabs/themes/opal/active-bot-l.gif) no-repeat left top;
+	background: url(/lance-trumbull/plugins/content/ja_tabs/themes/opal/active-bot-l.gif) no-repeat left top;
 	color: #444444;
 }
 

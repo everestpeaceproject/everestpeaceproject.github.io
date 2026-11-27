@@ -1,15 +1,15 @@
-body {
+﻿body {
 	background: #FAF0EF;
 	color: #000000;
 } 
 
 body#bd {
-	background: url(../../../../../../../20160716214729im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mw-bg.gif) repeat-x left top #FAF0EF;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mw-bg.gif) repeat-x left top #FAF0EF;
 	color: #555555;
 }
 
 div.ja-mainbg {
-	background: url(../../../../../../../20160716214558im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainwrap-bg.html) no-repeat center top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainwrap-bg.html) no-repeat center top;
 }
 
 a {
@@ -24,16 +24,16 @@ a {
 
 /*joomla style*/
 a.readon:hover, a.readon:focus, a.readon:active {
-	background: url(../../../../../../../20160716222910im_/http_/lancetrumbull.com/templates/ja_opal/images/red/readon-hover.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/readon-hover.gif) no-repeat left center;
 	color: #990000;
 }
 
 #ja-contentheading h1.componentheading {
-	background: url(../../../../../../../20160716222313im_/http_/lancetrumbull.com/templates/ja_opal/images/red/h3-bg.gif) no-repeat left bottom;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/h3-bg.gif) no-repeat left bottom;
 }
 
 #ja-contentheading h1.componentheading span.left-bg {
-	background: url(https://web.archive.org/web/20150123123301im_/http://lancetrumbull.com/templates/ja_opal/images/red/span-left.gif) no-repeat right bottom;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/span-left.gif) no-repeat right bottom;
 	padding: 10px 55px 12px 10px;
 }
 
@@ -66,32 +66,32 @@ tr.sectiontableentry2 td {
 }
 
 .createdate {
-	background: url(../../../../../../../20160716150415im_/http_/lancetrumbull.com/templates/ja_opal/images/red/vline.gif) no-repeat right center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/vline.gif) no-repeat right center;
 }
 
 h1.logo a {
-	background: url(../../../../../../../20160716151139im_/http_/lancetrumbull.com/templates/ja_opal/images/red/logo.png) no-repeat center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/logo.png) no-repeat center;
 }
 
 #ja-mainnav .inner {
-	background: url(../../../../../../../20160716214604im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-bg.gif) repeat-x left top #333333;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-bg.gif) repeat-x left top #333333;
 	border-bottom: 0px solid #4E0700;
 }
 
 #ja-headtools {
-	background: url(../../../../../../../20160716224207im_/http_/lancetrumbull.com/templates/ja_opal/images/red/ht-bg.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/ht-bg.gif) no-repeat left center;
 }
 
 #ja-headtools li a.login-switch {
-	background: url(../../../../../../../20160716190701im_/http_/lancetrumbull.com/templates/ja_opal/images/red/login-bg.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/login-bg.gif) no-repeat left center;
 }
 
 #ja-headtools li a.register-switch {
-	background: url(../../../../../../../20160716174828im_/http_/lancetrumbull.com/templates/ja_opal/images/red/sign-bg.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/sign-bg.gif) no-repeat left center;
 }
 
 div.ja-headtool a.logout-switch {
-	background: url(../../../../../../../20160716214736im_/http_/lancetrumbull.com/templates/ja_opal/images/red/logout-bg.gif) no-repeat left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/logout-bg.gif) no-repeat left top;
 	color: #CCCCCC;
 }
 
@@ -102,7 +102,7 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-topsl .inner {
-	background: url(../../../../../../../20160716233805im_/http_/lancetrumbull.com/templates/ja_opal/images/red/topsl-bg.gif) repeat-y left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/topsl-bg.gif) repeat-y left top;
 }
 
 #ja-hl div.moduletable .img-border {
@@ -111,11 +111,11 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-hl div.moduletable h3 {
-	background: url(https://web.archive.org/web/20131223232527im_/http://lancetrumbull.com/templates/ja_opal/images/red/hl-h3-bg.gif) no-repeat right center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/hl-h3-bg.gif) no-repeat right center;
 }
 
 #ja-hl div.moduletable h3 span.left-bg {
-	background: url(../../../../../../../20160716214725im_/http_/lancetrumbull.com/templates/ja_opal/images/red/hl-span-r.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/hl-span-r.gif) no-repeat left center;
 }
 
 #ja-hl div.moduletable h3 span.right-bg {
@@ -142,24 +142,24 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-search {
-	background: url(../../../../../../../20160716214618im_/http_/lancetrumbull.com/templates/ja_opal/images/red/search-bg.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/search-bg.gif) no-repeat left center;
 }
 
 #ja-search .button {
-	background: url(https://web.archive.org/web/20150123111742im_/http://lancetrumbull.com/templates/ja_opal/images/red/bsearch-bg.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bsearch-bg.gif) no-repeat left center;
 }
 
 #ja-current-content {
-	background: url(../../../../../../../20160716171800im_/http_/lancetrumbull.com/templates/ja_opal/images/red/cc-bg.gif) repeat-y 5px top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/cc-bg.gif) repeat-y 5px top;
 }
 
 #ja-container-f #ja-current-content {
-	background: url(https://web.archive.org/web/20150123113556im_/http://lancetrumbull.com/templates/ja_opal/images/red/cc-bg2.gif) repeat-y center top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/cc-bg2.gif) repeat-y center top;
 }
 
 #ja-subnav a,
 ul.menu li a {
-	background: url(https://web.archive.org/web/20150123111658im_/http://lancetrumbull.com/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
 	color: #555555;
 }
 
@@ -169,7 +169,7 @@ ul.menu li a {
 ul.menu li a:hover,
 ul.menu li a:active,
 ul.menu li a:focus {
-	background: url(../../../../../../../20160716214732im_/http_/lancetrumbull.com/templates/ja_opal/images/red/arrow-hover.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/arrow-hover.gif) no-repeat left center;
 	color: #990000;
 }
 
@@ -184,7 +184,7 @@ div.moduletable_menu h3,
 div.moduletable_text h3,
 div.moduletable_blank h3,
 div.moduletable_tabs h3 {
-	background: url(../../../../../../../20160716222313im_/http_/lancetrumbull.com/templates/ja_opal/images/red/h3-bg.gif) no-repeat left bottom;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/h3-bg.gif) no-repeat left bottom;
 	color: #FFFFFF;
 }
 
@@ -193,7 +193,7 @@ div.moduletable_menu h3 span.left-bg,
 div.moduletable_default h3 span.left-bg,
 div.moduletable_text h3 span.left-bg,
 div.moduletable_tabs h3 span.left-bg {
-	background: url(https://web.archive.org/web/20150123123301im_/http://lancetrumbull.com/templates/ja_opal/images/red/span-left.gif) no-repeat right bottom;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/span-left.gif) no-repeat right bottom;
 }
 
 div.moduletable h3 span.right-bg,
@@ -234,11 +234,11 @@ div.moduletable_blank div.ja-box-ct {
 #ja-botsl ul.menu li a:hover,
 #ja-botsl ul.menu li a:active,
 #ja-botsl ul.menu li a:focus {
-	background: url(../../../../../../../20160717005042im_/http_/lancetrumbull.com/templates/ja_opal/images/red/arrow-white.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/arrow-white.gif) no-repeat left center;
 }
 
 #ja-botsl ul.menu li.active a {
-	background: url(../../../../../../../20160717005042im_/http_/lancetrumbull.com/templates/ja_opal/images/red/arrow-white.gif) no-repeat left center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/arrow-white.gif) no-repeat left center;
 	color: #FFFFF;
 }
 
@@ -272,19 +272,19 @@ div.ja_slideimages .caption {
 
 
 .opal .ja-tabs-title-top {
-	background: url(../../../../../../../20160716232043im_/http_/lancetrumbull.com/templates/ja_opal/images/red/title-top-bg.gif) repeat-x left bottom #333333;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/title-top-bg.gif) repeat-x left bottom #333333;
 }
 
 .opal .ja-tabs-title-top ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.lastactive {
-	background: url(../../../../../../../20160716225856im_/http_/lancetrumbull.com/templates/ja_opal/images/red/active-top-r.gif) no-repeat right bottom;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/active-top-r.gif) no-repeat right bottom;
 }
 
 .opal .ja-tabs-title-top ul li.active h3,
 .opal .ja-tabs-title-top ul li.firstactive h3,
 .opal .ja-tabs-title-top ul li.lastactive h3 {
-	background: url(../../../../../../../20160717033933im_/http_/lancetrumbull.com/templates/ja_opal/images/red/active-top-l.gif) no-repeat left bottom !important;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/active-top-l.gif) no-repeat left bottom !important;
 }
 
 .opal .ja-tab-panels-bottom {
@@ -292,19 +292,19 @@ div.ja_slideimages .caption {
 }
 
 .opal .ja-tabs-title-bottom {
-	background: url(../../../../../../../20160716214607im_/http_/lancetrumbull.com/templates/ja_opal/images/red/title-bot-bg.gif) repeat-x left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/title-bot-bg.gif) repeat-x left top;
 }
 
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.lastactive {
-	background: url(../../../../../../../20160716155906im_/http_/lancetrumbull.com/templates/ja_opal/images/red/active-bot-r.gif) no-repeat right top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/active-bot-r.gif) no-repeat right top;
 }
 
 .opal .ja-tabs-title-bottom ul li.active h3,
 .opal .ja-tabs-title-bottom ul li.firstactive h3,
 .opal .ja-tabs-title-bottom ul li.lastactive h3 {
-	background: url(https://web.archive.org/web/20150123114856im_/http://lancetrumbull.com/templates/ja_opal/images/red/active-bot-l.gif) no-repeat left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/active-bot-l.gif) no-repeat left top;
 }
 
 /*ja news*/
@@ -315,7 +315,7 @@ div.ja_slideimages .caption {
 }
 
 div.jazin-section a span {
-	background: url(../../../../../../../20160716223936im_/http_/lancetrumbull.com/templates/ja_opal/images/red/arrow-r.gif) no-repeat right center;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/arrow-r.gif) no-repeat right center;
 }
 
 .jazin-box {
@@ -325,7 +325,7 @@ div.jazin-section a span {
 ul.jazin-links li a:hover,
 ul.jazin-links li a:active,
 ul.jazin-links li a:focus {
-	background: url(../../../../../../../20160717013534im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bullet-hover.gif) no-repeat 1px 7px;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bullet-hover.gif) no-repeat 1px 7px;
 	color: #990000;
 }
 
@@ -336,23 +336,23 @@ pre, .code {
 }
 
 blockquote span.open {
-	background: url(../../../../../../../20160716185648im_/http_/lancetrumbull.com/templates/ja_opal/images/red/so-q.gif) no-repeat left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/so-q.gif) no-repeat left top;
 }
 
 blockquote span.close {
-	background: url(../../../../../../../20160717034818im_/http_/lancetrumbull.com/templates/ja_opal/images/red/sc-q.gif) no-repeat bottom right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/sc-q.gif) no-repeat bottom right;
 }
 
 ul.checklist li {
-	background: url(../../../../../../../20160716234659im_/http_/lancetrumbull.com/templates/ja_opal/images/red/icon-checklist.gif) no-repeat 0 4px !important;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/icon-checklist.gif) no-repeat 0 4px !important;
 }
 
 ul.arrow li {
-	background: url(https://web.archive.org/web/20150123121403im_/http://lancetrumbull.com/templates/ja_opal/images/red/icon-arrow.gif) no-repeat 3px 5px;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/icon-arrow.gif) no-repeat 3px 5px;
 }
 
 p.stickynote {
-	background: url(../../../../../../../20160716235957im_/http_/lancetrumbull.com/templates/ja_opal/images/icon-sticky.png) no-repeat left top #FBF5F5;
+	background: url(/lance-trumbull/templates/ja_opal/images/icon-sticky.png) no-repeat left top #FBF5F5;
 	border: 1px solid #EACCCC;
 }
 
@@ -367,76 +367,76 @@ p.stickynote {
 }
 
 p.download {
-	background: url(../../../../../../../20160716212729im_/http_/lancetrumbull.com/templates/ja_opal/images/icon-download.png) no-repeat left top #FBF5F5;
+	background: url(/lance-trumbull/templates/ja_opal/images/icon-download.png) no-repeat left top #FBF5F5;
 	border: 1px solid #EACCCC;
 }
 
 .bignumber {
-	background: url(../../../../../../../20160716160058im_/http_/lancetrumbull.com/templates/ja_opal/images/red/ol-bg.gif) no-repeat top left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/ol-bg.gif) no-repeat top left;
 }
 
 div.bubble1 div {
-	background: url(../../../../../../../20160716225828im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub1-br.gif) no-repeat bottom right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub1-br.gif) no-repeat bottom right;
 }
 
 div.bubble1 div div {
-	background: url(../../../../../../../20160717033855im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub1-bl.gif) no-repeat bottom left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub1-bl.gif) no-repeat bottom left;
 }
 
 div.bubble1 div div div {
-	background: url(../../../../../../../20160716214659im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub1-tr.gif) no-repeat top right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub1-tr.gif) no-repeat top right;
 }
 
 div.bubble1 div div div div {
-	background: url(../../../../../../../20160716175056im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub1-tl.gif) no-repeat top left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub1-tl.gif) no-repeat top left;
 }
 
 div.bubble2 div {
-	background: url(../../../../../../../20160716214742im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub2-br.gif) no-repeat bottom right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub2-br.gif) no-repeat bottom right;
 }
 
 div.bubble2 div div {
-	background: url(../../../../../../../20160717034822im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub2-bl.gif) no-repeat bottom left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub2-bl.gif) no-repeat bottom left;
 }
 
 div.bubble2 div div div {
-	background: url(../../../../../../../20160716183545im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub2-tr.gif) no-repeat top right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub2-tr.gif) no-repeat top right;
 }
 
 div.bubble2 div div div div {
-	background: url(../../../../../../../20160716165244im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub2-tl.gif) no-repeat top left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub2-tl.gif) no-repeat top left;
 }
 
 div.bubble3 div {
-	background: url(../../../../../../../20160717034815im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub3-br.gif) no-repeat bottom right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub3-br.gif) no-repeat bottom right;
 }
 
 div.bubble3 div div {
-	background: url(../../../../../../../20160717025345im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub3-bl.gif) no-repeat bottom left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub3-bl.gif) no-repeat bottom left;
 }
 
 div.bubble3 div div div {
-	background: url(../../../../../../../20160716180439im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub3-tr.gif) no-repeat top right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub3-tr.gif) no-repeat top right;
 }
 
 div.bubble3 div div div div {
-	background: url(../../../../../../../20160716170907im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub3-tl.gif) no-repeat top left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub3-tl.gif) no-repeat top left;
 }
 
 div.bubble4 div {
-	background: url(../../../../../../../20160717000342im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub4-br.gif) no-repeat bottom right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub4-br.gif) no-repeat bottom right;
 }
 
 div.bubble4 div div {
-	background: url(../../../../../../../20160717020521im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub4-bl.gif) no-repeat bottom left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub4-bl.gif) no-repeat bottom left;
 }
 
 div.bubble4 div div div {
-	background: url(../../../../../../../20160716204920im_/http_/lancetrumbull.com/templates/ja_opal/images/red/bub4-tr.gif) no-repeat top right;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub4-tr.gif) no-repeat top right;
 }
 
 div.bubble4 div div div div {
-	background: url(https://web.archive.org/web/20150123110447im_/http://lancetrumbull.com/templates/ja_opal/images/red/bub4-tl.gif) no-repeat top left;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/bub4-tl.gif) no-repeat top left;
 }
 
 .legend-title {
@@ -450,7 +450,7 @@ div.bubble4 div div div div {
 
 /*split menu*/
 #ja-splitmenu a {
-	background: url(https://web.archive.org/web/20150123113728im_/http://lancetrumbull.com/templates/ja_opal/images/red/mainnav-sep.gif) no-repeat right top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-sep.gif) no-repeat right top;
 	color: #BD5A52;
 }
 
@@ -461,16 +461,16 @@ div.bubble4 div div div div {
 }
 
 #ja-splitmenu li.active {
-	background: url(../../../../../../../20160716214601im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-splitmenu li.active a {
-	background: url(../../../../../../../20160716214614im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-active-l.gif) no-repeat left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-active-l.gif) no-repeat left top;
 }
 
 /*css menu*/
 #ja-cssmenu li a {
-	background: url(https://web.archive.org/web/20150123113728im_/http://lancetrumbull.com/templates/ja_opal/images/red/mainnav-sep.gif) no-repeat right top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-sep.gif) no-repeat right top;
 	color: #FFD1CD;
 }
 
@@ -478,15 +478,15 @@ div.bubble4 div div div div {
 #ja-cssmenu li a:active,
 #ja-cssmenu li a:focus {
 	color: #FFFFFF;
-	background: url(../../../../../../../20160716214601im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-cssmenu li.active {
-	background: url(../../../../../../../20160716214601im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-cssmenu li.active a {
-	background: url(../../../../../../../20160716214614im_/http_/lancetrumbull.com/templates/ja_opal/images/red/mainnav-active-l.gif) no-repeat left top;
+	background: url(/lance-trumbull/templates/ja_opal/images/red/mainnav-active-l.gif) no-repeat left top;
 	color: #FFFFFF;
 }
 
