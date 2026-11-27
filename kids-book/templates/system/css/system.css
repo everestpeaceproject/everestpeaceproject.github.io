@@ -1,6 +1,6 @@
-﻿/* OpenID icon style */
+/* OpenID icon style */
 input.system-openid, input.com-system-openid {
-   background: url(/kids-book/images/login-bg.gif) no-repeat;
+   background: url(https://web.archive.org/web/20160419073435im_/http://openid.net/images/login-bg.gif) no-repeat;
    background-color: #fff;
    background-position: 0 50%;
    color: #000;
@@ -38,8 +38,8 @@ border-bottom: 4px solid #c4d3df;
 #system-debug div { font-size: 11px;}
 
 /*
-     FILE ARCHIVED ON 11:19:59 May 15, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:50:12 Nov 24, 2026.
+     FILE ARCHIVED ON 07:34:35 Apr 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:00:51 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -47,10 +47,8 @@ border-bottom: 4px solid #c4d3df;
 */
 /*
 playback timings (ms):
-  capture_cache.get: 4.843
-  load_resource: 321.099 (2)
-  PetaboxLoader3.resolve: 190.047 (2)
-  PetaboxLoader3.datanode: 86.105 (2)
-  revisit.resolve: 110.949
+  capture_cache.get: 0.57
+  load_resource: 85.764
+  PetaboxLoader3.resolve: 30.102
+  PetaboxLoader3.datanode: 53.486
 */
-

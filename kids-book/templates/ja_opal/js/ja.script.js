@@ -477,8 +477,8 @@ ja_topsl_button = function () {
 }
 
 /*
-     FILE ARCHIVED ON 13:07:47 May 15, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:50:16 Nov 24, 2026.
+     FILE ARCHIVED ON 07:34:30 Apr 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:00:53 Nov 24, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -486,9 +486,8 @@ ja_topsl_button = function () {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.44
-  load_resource: 515.888 (2)
-  PetaboxLoader3.resolve: 136.959 (2)
-  PetaboxLoader3.datanode: 221.466 (2)
-  revisit.resolve: 135.266
+  capture_cache.get: 0.662
+  load_resource: 47.904
+  PetaboxLoader3.resolve: 24.668
+  PetaboxLoader3.datanode: 21.537
 */

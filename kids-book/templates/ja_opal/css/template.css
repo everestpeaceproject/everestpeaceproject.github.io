@@ -1,4 +1,4 @@
-﻿ /*------------------------------------------------------------------------
+/*------------------------------------------------------------------------
 # JA Opal for Joomla 1.5 - Version 1.0 - Licence Owner JA160963
 # ------------------------------------------------------------------------
 # Copyright (C) 2004-2008 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
@@ -23,7 +23,7 @@ body {
 }
 
 body#bd {
-	background: url(/kids-book/templates/ja_opal/images/mw-bg.gif) repeat-x left top #EBEAE8;
+	background: url(../images/mw-bg.png) repeat-x left top #EBEAE8;
 	color: #555555;
 	padding: 0;
 	margin: 0;
@@ -95,10 +95,12 @@ div.leading .img-desc {
 
 div.article-content img,
 .img-desc img {
+
 	background: #FFFFFF;
 	border: 1px solid #DDDDDD;
 	margin: 0 8px 0 0;
 	padding: 4px;
+
 }
 
 .img-desc .img_caption p {
@@ -136,7 +138,7 @@ ul {
 }
 
 ul li {
-	background: url(/kids-book/templates/ja_opal/images/bullet.gif) no-repeat 20px 8px;
+	background: url(../images/bullet.gif) no-repeat 20px 8px;
 	padding-left: 30px;
 }
 
@@ -153,7 +155,7 @@ th {
 fieldset {
 	border: none;
 	padding: 10px 5px;
-	background: url(/kids-book/templates/ja_opal/images/dot.gif) repeat-x top;
+	background: url(../images/dot.gif) repeat-x top;
 }
 
 fieldset a {
@@ -211,7 +213,7 @@ input, select, textarea, .inputbox, .button {
 .button {
 	padding: 1px 8px;
 	border: 1px solid #000000;
-	background: url(/kids-book/templates/ja_opal/images/but-bg.gif) repeat-x left center #000000;
+	background: url(../images/but-bg.gif) repeat-x left center #000000;
 	color: #FFFFFF;
 	font-weight: bold;
 }
@@ -246,7 +248,7 @@ input, select, textarea, .inputbox, .button {
 
 /* content tables */
 .sectiontableheader {
-	background: url(/kids-book/templates/ja_opal/images/but-bg.gif) repeat-x left center #000000;
+	background: url(../images/but-bg.gif) repeat-x left center #000000;
 	border: 1px solid #4F4F4F;
 	padding: 4px 8px;
 	color: #CCCCCC;
@@ -290,7 +292,7 @@ table.contenttoc {
 }
 
 table.contenttoc td {
-	background: url(/kids-book/templates/ja_opal/images/bullet.gif) no-repeat 12px 8px;
+	background: url(../images/bullet.gif) no-repeat 12px 8px;
 	padding: 1px 5px 1px 20px;
 }
 
@@ -363,7 +365,7 @@ table.searchintro td {
 }
 
 .blog_more ul li {
-	background: url(/kids-book/templates/ja_opal/images/bullet.gif) no-repeat 4px 8px;
+	background: url(../images/bullet.gif) no-repeat 4px 8px;
 	margin: 0;
 	padding: 0 0 0 12px;
 }
@@ -397,7 +399,7 @@ h2.contentheading, .contentheading {
 	margin: 0 0 5px;
 	padding: 0;
 	font-size: 180%;
-	color: #666666;
+	color: #0B175F;
 }
 
 table.blog .contentheading {
@@ -410,7 +412,7 @@ a.contentpagetitle:active,
 a.contentpagetitle:focus {}
 
 a.readon {
-	background: url(/kids-book/templates/ja_opal/images/readon-bg.gif) no-repeat left center;
+	background: url(../images/readon-bg.gif) no-repeat left center;
 	color: #555555;
 	padding: 1px 2px 3px 5px;
 	width: 85px;
@@ -418,7 +420,7 @@ a.readon {
 }
 
 a.readon:hover, a.readon:focus, a.readon:active {
-	background: url(/kids-book/templates/ja_opal/images/readon-hover.gif) no-repeat left center;
+	background: url(../images/readon-hover.gif) no-repeat left center;
 	color: #C55901;
 	text-decoration: none;
 }
@@ -465,13 +467,13 @@ ul.pagination a:hover, ul.pagination a:active, ul.pagination a:focus {
 }
 
 .pagenavbar {
-	background: url(/kids-book/templates/ja_opal/images/icon-pages.gif) no-repeat center left;
+	background: url(../images/icon-pages.gif) no-repeat center left;
 	font-weight: bold;
 	padding-left: 14px;
 }
 
 .pagenavcounter {
-	background: url(/kids-book/templates/ja_opal/images/icon-pages.gif) no-repeat 0 11px;
+	background: url(../images/icon-pages.gif) no-repeat 0 11px;
 	font-weight: bold;
 	padding: 8px 14px 0 14px;
 }
@@ -491,12 +493,12 @@ div.syndicate div {
 
 ul.latestnews li.latestnews,
 ul.mostread li.mostread {
-	background: url(/kids-book/templates/ja_opal/images/dot.gif) repeat-x left bottom;
+	background: url(../images/dot.gif) repeat-x left bottom;
 	padding: 5px 0;
 }
 
 ul.latestnews a, ul.mostread a {
-	background: url(/kids-book/templates/ja_opal/images/bullet.gif) no-repeat left center;
+	background: url(../images/bullet.gif) no-repeat left center;
 	padding-left: 10px;
 	color: #C55901;
 }
@@ -515,7 +517,7 @@ ul.latestnews a, ul.mostread a {
 }
 
 #ja-contentheading h1.componentheading {
-	background: url(/kids-book/templates/ja_opal/images/h3-bg2.gif) no-repeat left bottom;
+	background: url(../images/h3-bg2.gif) no-repeat left bottom;
 	border: none !important;
 	color: #FFFFFF;
 	font-size: 100% !important;
@@ -526,14 +528,14 @@ ul.latestnews a, ul.mostread a {
 }
 
 #ja-contentheading h1.componentheading span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/arrow-right.gif) no-repeat right bottom;
+	background: url(../images/arrow-right.gif) no-repeat right bottom;
 	display: block;
 	float: left;
 	padding: 9px 20px 14px 10px;
 }
 
 #ja-contentheading h1.componentheading span.right-bg {
-	background: url(/kids-book/templates/ja_opal/images/h3-sep.gif) no-repeat right bottom;
+	background: url(../images/h3-sep.gif) no-repeat right bottom;
 	display: block;
 	padding-left: 0px;
 }
@@ -544,10 +546,12 @@ ul.latestnews a, ul.mostread a {
 }
 
 #ja-contentheading div.blog {
-	background: #EBEAE8;
+	/*background: #EBEAE8;*/
 	border: 1px solid #B9B7B5;
 	border-top: none;
 	padding: 5px 15px 10px;
+	background:#DDDDDD;
+
 }
 
 #ja-contentheading .leading h2.contentheading {
@@ -604,7 +608,7 @@ div.content-desc p {
 .createdate {
 	padding-right: 6px;
 	margin-right: 5px;
-	background: url(/kids-book/templates/ja_opal/images/vline.gif) no-repeat right center;
+	background: url(../images/vline.gif) no-repeat right center;
 }
 
 .modifydate {
@@ -617,7 +621,7 @@ div.content-desc p {
 .article-section {
 	padding-left: 6px;
 	margin-left: 5px;
-	background: url(/kids-book/templates/ja_opal/images/vline.gif) no-repeat left center;
+	background: url(../images/vline.gif) no-repeat left center;
 }
 
 .article-section a {
@@ -668,7 +672,7 @@ div.column3 .contentpaneopen {
 }
 
 div.ja-mainbg {
-	background: url(/kids-book/templates/ja_opal/images/body-bg.jpg) no-repeat center top;
+	background: url(../images/body-bg.png) no-repeat center top;
 }
 
 #ja-mainbody {
@@ -686,7 +690,7 @@ div.ja-mainbg {
 }
 
 #ja-current-content {
-	background: url(/kids-book/templates/ja_opal/images/cc-bg.gif) repeat-y right top;
+	background: url(../images/cc-bg.gif) repeat-y right top;
 	margin: 0 0 15px;
 	padding: 10px 15px 0;
 }
@@ -721,7 +725,7 @@ div.ja-mainbg {
 #ja-container-fr,
 #ja-container-fl,
 #ja-container-f {
-	background: url(/kids-book/templates/ja_opal/images/container-bg.gif) repeat-x left bottom;
+	background: url(../images/container-bg.png) repeat-x left bottom;
 	padding: 0 0 20px;
 	clear: both;
 }
@@ -785,7 +789,7 @@ div.ja-mainbg {
 }
 
 #ja-container-f #ja-current-content {
-	background: url(/kids-book/templates/ja_opal/images/cc-bg2.gif) repeat-y center top;
+	background: url(../images/cc-bg2.gif) repeat-y center top;
 }
 
 /* MODULE
@@ -796,7 +800,7 @@ div.moduletable_menu h3,
 div.moduletable_text h3,
 div.moduletable_blank h3,
 div.moduletable_tabs h3 {
-	background: url(/kids-book/templates/ja_opal/images/h3-bg.gif) no-repeat left bottom;
+	background: url(../images/h3-bg.gif) no-repeat left bottom;
 	color: #FFFFFF;
 	font-size: 100%;
 	margin: 0 0 0 -5px;
@@ -810,7 +814,7 @@ div.moduletable_menu h3 span.left-bg,
 div.moduletable_default h3 span.left-bg,
 div.moduletable_text h3 span.left-bg,
 div.moduletable_tabs h3 span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/span-left.gif) no-repeat right bottom;
+	background: url(../images/span-left.gif) no-repeat right bottom;
 	display: block;
 	float: left;
 	padding: 10px 60px 12px 10px;
@@ -821,7 +825,7 @@ div.moduletable_default h3 span.right-bg,
 div.moduletable_menu h3 span.right-bg,
 div.moduletable_text h3 span.right-bg,
 div.moduletable_tabs h3 span.right-bg {
-	background: url(/kids-book/templates/ja_opal/images/h3-sep.gif) no-repeat right bottom;
+	background: url(../images/h3-sep.gif) no-repeat right bottom;
 	display: block;
 	padding: 0;
 }
@@ -849,19 +853,19 @@ div.hilite1 div.ja-box-ct {
 }
 
 div.hilite1 ul.menu li a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
+	background: url(../images/arrow-grey.gif) no-repeat left center;
 	color: #999999;
 }
 
 div.hilite1 ul.menu li a:hover,
 div.hilite1 ul.menu li a:focus,
 div.hilite1 ul.menu li a:active {
-	background: url(/kids-book/templates/ja_opal/images/arrow-white.gif) no-repeat left center;
+	background: url(../images/arrow-white.gif) no-repeat left center;
 	color: #FFFFFF;
 }
 
 div.hilite1 ul.menu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-white.gif) no-repeat left center;
+	background: url(../images/arrow-white.gif) no-repeat left center;
 	color: #FFFFFF;
 }
 
@@ -871,19 +875,19 @@ div.hilite2 div.ja-box-ct {
 }
 
 div.hilite2 ul.menu li a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-grey2.gif) no-repeat left center;
+	background: url(../images/arrow-grey2.gif) no-repeat left center;
 	color: #555555;
 }
 
 div.hilite2 ul.menu li a:hover,
 div.hilite2 ul.menu li a:focus,
 div.hilite2 ul.menu li a:active {
-	background: url(/kids-book/templates/ja_opal/images/arrow-white.gif) no-repeat left center;
+	background: url(../images/arrow-white.gif) no-repeat left center;
 	color: #FFFFFF;
 }
 
 div.hilite2 ul.menu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-white.gif) no-repeat left center;
+	background: url(../images/arrow-white.gif) no-repeat left center;
 	color: #FFFFFF;
 }
 
@@ -943,7 +947,7 @@ div.moduletable_text li {
 }
 
 h1.logo, div.logo-text {
-	margin: 0;
+	margin: 30px 20px 0;
 	padding: 0;
 	float: left;
 }
@@ -952,7 +956,7 @@ h1.logo a {
 	width: 245px;
 	height: 75px;
 	display: block;
-	background: url(/kids-book/templates/ja_opal/images/logo.html) no-repeat center;
+	background: url(../images/logo.png) no-repeat center;
 }
 
 h1.logo a span {
@@ -1004,7 +1008,7 @@ div.logo-text h1 a:active {
 }
 
 #ja-mainnav .inner {
-	background: url(/kids-book/templates/ja_opal/images/mainnav-bg.gif) repeat-x left top #333333;
+	background: url(../images/mainnav-bg.gif) repeat-x left top #333333;
 	border-bottom: 1px solid #4F4F4F;
 	padding: 0;
 	margin: 0 5px;
@@ -1026,7 +1030,7 @@ div.logo-text h1 a:active {
 
 #ja-subnav li {
 	display: block;
-	background: url(/kids-book/templates/ja_opal/images/dot.gif) repeat-x bottom;
+	background: url(../images/dot.gif) repeat-x bottom;
 	margin: 0;
 	padding: 0;
 	line-height: normal;
@@ -1039,7 +1043,7 @@ div.logo-text h1 a:active {
 	margin: 0;
 	text-decoration: none;
 	color: #4F4F4F;
-	background: url(/kids-book/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
+	background: url(../images/arrow-grey.gif) no-repeat left center;
 }
 
 #ja-subnav a:hover,
@@ -1047,13 +1051,13 @@ div.logo-text h1 a:active {
 #ja-subnav a:focus {
 	color: #C55901;
 	text-decoration: none;
-	background: url(/kids-book/templates/ja_opal/images/arrow-hover.gif) no-repeat 0px 10px;
+	background: url(../images/arrow-hover.gif) no-repeat 0px 10px;
 }
 
 #ja-subnav li.active a {
 	font-weight: bold;
 	color: #C55901;
-	background: url(/kids-book/templates/ja_opal/images/arrow-hover.gif) no-repeat 0px 10px;
+	background: url(../images/arrow-hover.gif) no-repeat 0px 10px;
 }
 
 /* breadcrumbs */
@@ -1077,16 +1081,16 @@ div.logo-text h1 a:active {
 }
 
 #ja-pathway span {
-	color: #FFFFFF;
+	color: #BC770F;
 	padding: 0 5px 0 0;
 }
 
 #ja-pathway strong {
-	color: #C55901;
+	color: #2F2F2F;
 }
 
 #ja-pathway a {
-	color: #FFFFFF;
+	color: #BC770F;
 	font-weight: bold;
 }
 
@@ -1104,14 +1108,14 @@ ul.menu {
 
 ul.menu li {
 	display: block;
-	background: url(/kids-book/templates/ja_opal/images/dot.gif) repeat-x bottom;
+	background: url(../images/dot.gif) repeat-x bottom;
 	margin: 0;
 	padding: 0;
 	line-height: normal;
 }
 
 ul.menu li a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
+	background: url(../images/arrow-grey.gif) no-repeat left center;
 	display: block;
 	outline: none;
 	padding: 6px 0 6px 10px;
@@ -1123,7 +1127,7 @@ ul.menu li a {
 ul.menu li a:hover,
 ul.menu li a:active,
 ul.menu li a:focus {
-	background: url(/kids-book/templates/ja_opal/images/arrow-hover.gif) no-repeat left center;
+	background: url(../images/arrow-hover.gif) no-repeat left center;
 	color: #C55901;
 	text-decoration: none;
 }
@@ -1169,7 +1173,7 @@ ul.menu li li li a {
 	color: #4F4F4F !important;
 	font-weight: normal !important;
 	padding-left: 35px !important;
-	background: url(/kids-book/templates/ja_opal/images/bullet.gif) no-repeat 25px 10px !important;
+	background: url(../images/bullet.gif) no-repeat 25px 10px !important;
 }
 
 ul.menu li li li.active a {
@@ -1188,11 +1192,11 @@ ul.menu li li li.active a {
 #ja-topsl {
 	margin: 0;
 	z-index: 10;
-	/*height: 324px;*/
+	height: 324px;
 }
 
 #ja-topsl .inner {
-	background: url(/kids-book/templates/ja_opal/images/topsl-bg.gif) repeat-y left top;
+	background: url(../images/topsl-bg.gif) repeat-y left top;
 	margin: 0 0 0 5px;
 	padding: 0 0 10px 10px;
 }
@@ -1206,16 +1210,16 @@ ul.menu li li li.active a {
 }
 
 #ja-topsl2 div.moduletable h3 {
-	background: url(/kids-book/templates/ja_opal/images/h3-bg2.gif) no-repeat left bottom;
+	background: url(../images/h3-bg2.gif) no-repeat left bottom;
 }
 
 #ja-topsl2 div.moduletable h3 span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/arrow-right2.gif) no-repeat right bottom;
+	background: url(../images/arrow-right2.gif) no-repeat right bottom;
 	padding-right: 50px;
 }
 
 #ja-topsl2 div.moduletable .ja-box-ct {
-	background: url(/kids-book/templates/ja_opal/images/topsl-boxct.gif) repeat-x left bottom #DDDDDD;
+	background: url(../images/topsl-boxct.gif) repeat-x left bottom #DDDDDD;
 	border: 1px solid #B9B7B5;
 	border-top: none;
 	color: #555555;
@@ -1307,7 +1311,7 @@ ul.menu li li li.active a {
 /* FOOTER
 --------------------------------------------------------- */
 #ja-footer {
-	background: #222222;
+	background: #C25901;
 	border-top: 1px solid #333333;
 	clear: both;
 	padding: 0;
@@ -1320,7 +1324,7 @@ ul.menu li li li.active a {
 }
 
 #ja-footer a {
-	color: #555555;
+	color: #666666;
 }
 
 #ja-footer a:hover, #ja-footer a:active, #ja-footer a:focus {
@@ -1345,7 +1349,7 @@ ul.menu li li li.active a {
 }
 
 #ja-footer li a {
-	color: #555555;
+	color: #000000;
 	display: inline;
 	padding: 0 10px;
 }
@@ -1381,7 +1385,7 @@ li.ja-firstitem {
 }
 
 #ja-hl div.moduletable h3 {
-	background: url(/kids-book/templates/ja_opal/images/hl-h3-bg.gif) no-repeat right center;
+	background: url(../images/hl-h3-bg.gif) no-repeat right center;
 	margin: 0;
 	padding: 0 5px 0 0;
 }
@@ -1401,12 +1405,12 @@ li.ja-firstitem {
 
 #ja-hl div.moduletable h3 span.left-bg {
 	float: right;
-	background: url(/kids-book/templates/ja_opal/images/hl-span-r.gif) no-repeat left center;
+	background: url(../images/hl-span-r.gif) no-repeat left center;
 	padding: 14px 15px 12px 65px;
 }
 
 #ja-hl div.moduletable h3 span.right-bg {
-	background: url(/kids-book/templates/ja_opal/images/h3-sep2.gif) repeat-x left center;
+	background: url(../images/h3-sep2.gif) repeat-x left center;
 }
 
 #ja-hl div.ja-box-ct {
@@ -1424,7 +1428,7 @@ li.ja-firstitem {
 
 /* Header tools */
 #ja-headtools {
-	background: url(/kids-book/templates/ja_opal/images/ht-bg.gif) no-repeat left center;
+	background: url(../images/ht-bg.gif) no-repeat left center;
 	width: 215px;
 	height: 28px;
 	position: absolute;
@@ -1494,7 +1498,7 @@ li.ja-firstitem {
 
 #ja-login .button ,
 #ja-register .button {
-	background: url(/kids-book/templates/ja_opal/images/but-bg.gif) repeat-x left center #000000;
+	background: url(../images/but-bg.gif) repeat-x left center #000000;
 	border: 1px solid #333333;
 }
 
@@ -1523,12 +1527,12 @@ li.ja-firstitem {
 }
 
 #ja-headtools li a.login-switch {
-	background: url(/kids-book/templates/ja_opal/images/login-bg.gif) no-repeat left center;
+	background: url(../images/login-bg.gif) no-repeat left center;
 	width: 66px;
 }
 
 #ja-headtools li a.register-switch {
-	background: url(/kids-book/templates/ja_opal/images/sign-bg.gif) no-repeat left center;
+	background: url(../images/sign-bg.gif) no-repeat left center;
 	width: 130px;
 }
 
@@ -1551,7 +1555,7 @@ li.ja-firstitem {
 }
 
 div.ja-headtool a.logout-switch {
-	background: url(/kids-book/templates/ja_opal/images/logout-bg.gif) no-repeat left top;
+	background: url(../images/logout-bg.gif) no-repeat left top;
 	color: #999999;
 	display: block;
 	font-weight: bold;
@@ -1588,7 +1592,7 @@ label.ja-login-user span {
 	display: block;
 	float: left;
 	text-indent: -5000px;
-	background: url(/kids-book/templates/ja_opal/images/icon-user.gif) no-repeat center left;
+	background: url(../images/icon-user.gif) no-repeat center left;
 	width: 20px;
 	height: 20px;
 }
@@ -1597,7 +1601,7 @@ label.ja-login-password span {
 	display: block;
 	float: left;
 	text-indent: -5000px;
-	background: url(/kids-book/templates/ja_opal/images/icon-key.gif) no-repeat center left;
+	background: url(../images/icon-key.gif) no-repeat center left;
 	width: 20px;
 	height: 20px;
 }
@@ -1640,7 +1644,7 @@ label.ja-login-password span {
 
 div#login {
 	display: inline;
-	background: url(/kids-book/templates/ja_opal/images/vline.gif) no-repeat left center;
+	background: url(../images/vline.gif) no-repeat left center;
 	padding-left: 12px;
 	padding-right: 8px;
 }
@@ -1678,7 +1682,7 @@ div#ja-usercolors {
 
 /* Search */
 #ja-search {
-	background: url(/kids-book/templates/ja_opal/images/search-bg.gif) no-repeat left center;
+	background: url(../images/search-bg.gif) no-repeat left center;
 	width: 330px;
 	font-size: 12px;
 	z-index: 1;
@@ -1700,7 +1704,7 @@ div#ja-usercolors {
 }
 
 #ja-search .button {
-	background: url(/kids-book/templates/ja_opal/images/bsearch-bg.gif) no-repeat left center;
+	background: url(../images/bsearch-bg.gif) no-repeat left center;
 	border: none;
 	color: #CCCCCC;
 	font-size: 11px;
@@ -1755,7 +1759,7 @@ ul.no-display {
 
 div.ja-innerdiv {
 	padding: 10px 0 !important;
-	background: url(/kids-book/templates/ja_opal/images/dot.gif) repeat-x bottom !important;
+	background: url(../images/dot.gif) repeat-x bottom !important;
 }
 
 div.ja-innerdiv span.title {
@@ -1787,7 +1791,7 @@ div.ja-innerdiv .img-border {
 }
 
 .tool-title {
-	background: url(/kids-book/templates/system/images/selector-arrow.png) no-repeat;
+	background: url(../../system/images/selector-arrow.png) no-repeat;
 	font-size: 100%;
 	font-weight: bold;
 	margin: 0;
@@ -1856,20 +1860,12 @@ html[xmlns] .clearfix { /* O */
 	clear: both;
 	visibility: hidden;
 }
-/*
-     FILE ARCHIVED ON 22:17:52 Aug 18, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:49:39 Nov 24, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  capture_cache.get: 0.353
-  load_resource: 487.435 (2)
-  PetaboxLoader3.resolve: 139.107 (2)
-  PetaboxLoader3.datanode: 242.626 (2)
-  revisit.resolve: 139.335
-*/
+img .reset{
 
+	background: none;
+	border: 0p;
+	margin: 0;
+	padding: 0;
+
+}

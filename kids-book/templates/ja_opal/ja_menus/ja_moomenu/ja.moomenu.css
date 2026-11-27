@@ -1,194 +1,70 @@
-﻿/*------------------------------------------------------------------------
-# JA Opal for Joomla 1.5 - Version 1.0 - Licence Owner JA160963
-# ------------------------------------------------------------------------
-# Copyright (C) 2004-2008 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
-# @license - Copyrighted Commercial Software
-# Author: J.O.O.M Solutions Co., Ltd
-# Websites:  http://www.joomlart.com -  http://www.joomlancers.com
-# This file may not be redistributed in whole or significant part.
--------------------------------------------------------------------------*/
-
-/* Son of Suckerfish Dropdowns
----------------------------------------------------------
-Originally developed by Patrick Griffiths and Dan Webb
-http://www.htmldog.com/articles/suckerfish/dropdowns/
----------------------------------------------------------
-NOTE: After a deep research, we decide to divide this
-CSS into 2 parts. The first part will define the layout.
-The second part will define the visual look for this menu.
----------------------------------------------------------*/
-
-#ja-cssmenu {
-	margin: 0 0 0 10px; /* all lists */
-	padding: 0;
+﻿#ja-cssmenu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
-
 #ja-cssmenu ul {
-	margin: 0; /* all lists */
-	padding: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
-
 #ja-cssmenu li {
-	float: left;
-	display: block;
-	padding: 0;
-	margin: 0 2px 0 0;
-	background: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    display: block;
+    position: relative;
+    background: none;
 }
-
-#ja-cssmenu li ul {
-	width: 16.4em;
-	position: absolute; /* second-level lists */
-	z-index: 99;
-	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
-	height: auto;
-	w\idth: 15.9em;
-}
-
-#ja-cssmenu li ul ul {
-	margin: -2em 0 0 15em; /* third-and-above-level lists */
-}
-
-#ja-cssmenu li li {
-	padding: 0 1em 0 0;
-	margin: 0;
-	width: 14.9em;
-}
-
-#ja-cssmenu ul a {
-	width: 14.8em;
-	w\idth: 10.8em;
-}
-
-#ja-cssmenu li:hover ul ul, #ja-cssmenu li:hover ul ul ul,
-#ja-cssmenu li.sfhover ul ul, #ja-cssmenu li.havechildsfhover ul ul, #ja-cssmenu li.havechild-activesfhover ul ul, #ja-cssmenu li.activesfhover ul ul,
-#ja-cssmenu li.sfhover ul ul ul, #ja-cssmenu li.havechildsfhover ul ul ul, #ja-cssmenu li.havechild-activesfhover ul ul ul, #ja-cssmenu li.activesfhover ul ul ul {
-	left: -999em;
-}
-
-/* This "unhides" the sub-menus (left: -999em is what hides them) */
-#ja-cssmenu li:hover ul, #ja-cssmenu li li:hover ul, #ja-cssmenu li li li:hover ul,
-#ja-cssmenu li.sfhover ul, #ja-cssmenu li.havechildsfhover ul, #ja-cssmenu li.havechild-activesfhover ul, #ja-cssmenu li.activesfhover ul,
-#ja-cssmenu li li.sfhover ul, #ja-cssmenu li li.havesubchildsfhover ul, #ja-cssmenu li li.havesubchild-activesfhover ul, #ja-cssmenu li li.activesfhover ul,
-#ja-cssmenu li li li.sfhover ul, #ja-cssmenu li li li.havesubchildsfhover ul, #ja-cssmenu li li li.havesubchild-activesfhover ul, #ja-cssmenu li li li.activesfhover ul {
-	left: auto;
-}
-
-/* STYLING THE MENU
------------------------------------*/
-/* 1st level */
 #ja-cssmenu li a {
-	background: url(/kids-book/templates/ja_opal/images/mainnav-sep.gif) no-repeat right top;
-	display: block;
-	text-decoration: none;
-	font-size: 110%;
-	color: #888888;
-	padding: 12px 15px;
-	font-weight: bold;
-	text-transform: uppercase;
+    display: block;
+    text-decoration: none;
+    line-height: 36px;
+    padding: 0 15px;
+    color: #CCCCCC;
+    font-weight: bold;
+    font-size: 11px;
+    text-transform: uppercase;
+    border-right: 1px solid #333333;
 }
-
 #ja-cssmenu li a:hover,
-#ja-cssmenu li a:active,
-#ja-cssmenu li a:focus {
-	color: #FFFFFF;
+#ja-cssmenu li.active a,
+#ja-cssmenu li:hover > a {
+    color: #FFFFFF;
+    background: #D95B16;
 }
-
-#ja-cssmenu li:hover a,
-#ja-cssmenu li.sfhover a,
-#ja-cssmenu li.havechildsfhover a,
-#ja-cssmenu li.havechild-activesfhover a {
-	color: #FFFFFF;
-}
-
-#ja-cssmenu li.active {
-	background: url(/kids-book/templates/ja_opal/images/mainnav-active-r.gif) no-repeat right top;	
-}
-
-#ja-cssmenu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/mainnav-active-l.gif) no-repeat left top;
-	color: #FFFFFF;
-}
-
-#ja-cssmenu li a.active:hover,
-#ja-cssmenu li a.active:active,
-#ja-cssmenu li a.active:focus {
-	color: #FFFFFF;
-}
-
-/* 2nd level and above */
 #ja-cssmenu li ul {
-	border: 1px solid #202020;
-	background: url(/kids-book/templates/ja_opal/images/trans-bg.png);
+    position: absolute;
+    left: -999em;
+    top: 36px;
+    width: 210px;
+    background: #222222;
+    border: 1px solid #444444;
+    z-index: 9999;
 }
-
-#ja-cssmenu li ul ul {
-	border: 1px solid #202020;
+#ja-cssmenu li:hover > ul {
+    left: 0;
 }
-
 #ja-cssmenu li ul li {
-	border-bottom: 1px solid #202020;
-	border-right: none;
-	background: none;
+    float: none;
+    width: 100%;
+    border-bottom: 1px solid #333333;
+}
+#ja-cssmenu li ul li a {
+    line-height: 28px;
+    padding: 2px 12px;
+    font-size: 11px;
+    text-transform: none;
+    border-right: none;
+    color: #CCCCCC;
+}
+#ja-cssmenu li ul li a:hover {
+    background: #D95B16;
+    color: #FFFFFF;
+}
+#ja-cssmenu li ul ul {
+    top: 0;
+    margin-left: 210px;
 }
 
-#ja-cssmenu li ul a {
-	border-right: none;
-	margin: 0;
-	padding: 7px 10px;
-	background: none !important;
-	text-transform: none;
-	font-weight: normal;
-	font-size: 100%;
-	white-space: nowrap;
-	color: #CCCCCC !important;
-}
-
-#ja-cssmenu li.havesubchild,
-#ja-cssmenu li.havesubchild-active {
-	background: url(/kids-book/templates/ja_opal/ja_menus/ja_moomenu/img/arrow-1.gif) no-repeat 95% 50%;
-}
-
-#ja-cssmenu li ul a:hover,
-#ja-cssmenu li ul a:active,
-#ja-cssmenu li ul a:focus,
-#ja-cssmenu ul li:hover,
-#ja-cssmenu ul li.sfhover,
-#ja-cssmenu ul li.havesubchildsfhover,
-#ja-cssmenu ul li.havesubchild-activesfhover,
-#ja-cssmenu ul ul li:hover,
-#ja-cssmenu ul ul li.sfhover,
-#ja-cssmenu ul ul li.havesubchildsfhover,
-#ja-cssmenu ul ul li.havesubchild-activesfhover {
-	background: url(/kids-book/templates/ja_opal/images/mainnav-active.gif) repeat-x left top #E27F1D;
-	color: #FFFFFF !important;
-}
-
-#ja-cssmenu ul li a.active {
-	background: none !important;
-	color: #FFFFFF !important;
-	font-weight: bold !important;
-}
-
-#ja-cssmenu ul li a.active:hover,
-#ja-cssmenu ul li a.active:active,
-#ja-cssmenu ul li a.active:focus {
-	color: #FFFFFF !important;
-}
-/*
-     FILE ARCHIVED ON 08:13:52 May 15, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:50:17 Nov 24, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  capture_cache.get: 0.343
-  load_resource: 348.36 (2)
-  PetaboxLoader3.resolve: 223.212 (2)
-  PetaboxLoader3.datanode: 85.469 (2)
-  revisit.resolve: 170.218
-*/
 
