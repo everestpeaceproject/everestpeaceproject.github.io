@@ -1,15 +1,15 @@
-﻿body {
+body {
 	background: #D1E0EF;
 	color: #000000;
 } 
 
 body#bd {
-	background: url(/kids-book/templates/ja_opal/images/blue/mw-bg.gif) repeat-x left top #D1E0EF;
+	background: url(../../images/blue/mw-bg.gif) repeat-x left top #D1E0EF;
 	color: #555555;
 }
 
 div.ja-mainbg {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainwrap-bg.jpg) no-repeat center top;
+	background: url(../../images/blue/mainwrap-bg.jpg) no-repeat center top;
 }
 
 a {
@@ -24,15 +24,15 @@ a {
 
 /*joomla style*/
 a.readon:hover, a.readon:focus, a.readon:active {
-	background: url(/kids-book/templates/ja_opal/images/blue/readon-hover.gif) no-repeat left center;
+	background: url(../../images/blue/readon-hover.gif) no-repeat left center;
 	color: #104F92;
 }
 #ja-contentheading h1.componentheading {
-	background: url(/kids-book/templates/ja_opal/images/blue/h3-bg.gif) no-repeat left bottom;
+	background: url(../../images/blue/h3-bg.gif) no-repeat left bottom;
 }
 
 #ja-contentheading h1.componentheading span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/blue/span-left.gif) no-repeat right bottom;
+	background: url(../../images/blue/span-left.gif) no-repeat right bottom;
 	padding: 10px 55px 12px 10px;
 }
 
@@ -65,32 +65,32 @@ tr.sectiontableentry2 td {
 }
 
 .createdate {
-	background: url(/kids-book/templates/ja_opal/images/blue/vline.gif) no-repeat right center;
+	background: url(../../images/blue/vline.gif) no-repeat right center;
 }
 
 h1.logo a {
-	background: url(/kids-book/templates/ja_opal/images/blue/logo.html) no-repeat center;
+	background: url(../../images/blue/logo.png) no-repeat center;
 }
 
 #ja-mainnav .inner {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-bg.gif) repeat-x left top #333333;
+	background: url(../../images/blue/mainnav-bg.gif) repeat-x left top #333333;
 	border-bottom: 0px solid #0C3C71;
 }
 
 #ja-headtools {
-	background: url(/kids-book/templates/ja_opal/images/blue/ht-bg.gif) no-repeat left center;
+	background: url(../../images/blue/ht-bg.gif) no-repeat left center;
 }
 
 #ja-headtools li a.login-switch {
-	background: url(/kids-book/templates/ja_opal/images/blue/login-bg.gif) no-repeat left center;
+	background: url(../../images/blue/login-bg.gif) no-repeat left center;
 }
 
 #ja-headtools li a.register-switch {
-	background: url(/kids-book/templates/ja_opal/images/blue/sign-bg.gif) no-repeat left center;
+	background: url(../../images/blue/sign-bg.gif) no-repeat left center;
 }
 
 div.ja-headtool a.logout-switch {
-	background: url(/kids-book/templates/ja_opal/images/blue/logout-bg.gif) no-repeat left top;
+	background: url(../../images/blue/logout-bg.gif) no-repeat left top;
 	color: #CCCCCC;
 }
 
@@ -101,7 +101,7 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-topsl .inner {
-	background: url(/kids-book/templates/ja_opal/images/blue/topsl-bg.gif) repeat-y left top;
+	background: url(../../images/blue/topsl-bg.gif) repeat-y left top;
 }
 
 #ja-hl div.moduletable .img-border {
@@ -110,11 +110,11 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-hl div.moduletable h3 {
-	background: url(/kids-book/templates/ja_opal/images/blue/hl-h3-bg.gif) no-repeat right center;
+	background: url(../../images/blue/hl-h3-bg.gif) no-repeat right center;
 }
 
 #ja-hl div.moduletable h3 span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/blue/hl-span-r.gif) no-repeat left center;
+	background: url(../../images/blue/hl-span-r.gif) no-repeat left center;
 }
 
 #ja-hl div.moduletable h3 span.right-bg {
@@ -141,24 +141,24 @@ div.ja-headtool a.logout-switch:active {
 }
 
 #ja-search {
-	background: url(/kids-book/templates/ja_opal/images/blue/search-bg.gif) no-repeat left center;
+	background: url(../../images/blue/search-bg.gif) no-repeat left center;
 }
 
 #ja-search .button {
-	background: url(/kids-book/templates/ja_opal/images/blue/bsearch-bg.gif) no-repeat left center;
+	background: url(../../images/blue/bsearch-bg.gif) no-repeat left center;
 }
 
 #ja-current-content {
-	background: url(/kids-book/templates/ja_opal/images/blue/cc-bg.gif) repeat-y 5px top;
+	background: url(../../images/blue/cc-bg.gif) repeat-y 5px top;
 }
 
 #ja-container-f #ja-current-content {
-	background: url(/kids-book/templates/ja_opal/images/blue/cc-bg2.gif) repeat-y center top;
+	background: url(../../images/blue/cc-bg2.gif) repeat-y center top;
 }
 
 #ja-subnav a,
 ul.menu li a {
-	background: url(/kids-book/templates/ja_opal/images/arrow-grey.gif) no-repeat left center;
+	background: url(../../images/arrow-grey.gif) no-repeat left center;
 	color: #555555;
 }
 
@@ -168,13 +168,13 @@ ul.menu li a {
 ul.menu li a:hover,
 ul.menu li a:active,
 ul.menu li a:focus {
-	background: url(/kids-book/templates/ja_opal/images/blue/arrow-hover.gif) no-repeat left center;
+	background: url(../../images/blue/arrow-hover.gif) no-repeat left center;
 	color: #0C3C71;
 }
 
 #ja-subnav li.active a,
 ul.menu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/blue/arrow-hover.gif) no-repeat left center;
+	background: url(../../images/blue/arrow-hover.gif) no-repeat left center;
 	color: #0C3C71;
 }
 
@@ -184,7 +184,7 @@ div.moduletable_menu h3,
 div.moduletable_text h3,
 div.moduletable_blank h3,
 div.moduletable_tabs h3 {
-	background: url(/kids-book/templates/ja_opal/images/blue/h3-bg.gif) no-repeat left bottom;
+	background: url(../../images/blue/h3-bg.gif) no-repeat left bottom;
 	color: #FFFFFF;
 }
 
@@ -193,7 +193,7 @@ div.moduletable_menu h3 span.left-bg,
 div.moduletable_default h3 span.left-bg,
 div.moduletable_text h3 span.left-bg,
 div.moduletable_tabs h3 span.left-bg {
-	background: url(/kids-book/templates/ja_opal/images/blue/span-left.gif) no-repeat right bottom;
+	background: url(../../images/blue/span-left.gif) no-repeat right bottom;
 }
 
 div.moduletable h3 span.right-bg,
@@ -234,11 +234,11 @@ div.moduletable_blank div.ja-box-ct {
 #ja-botsl ul.menu li a:hover,
 #ja-botsl ul.menu li a:active,
 #ja-botsl ul.menu li a:focus {
-	background: url(/kids-book/templates/ja_opal/images/blue/arrow-white.gif) no-repeat left center;
+	background: url(../../images/blue/arrow-white.gif) no-repeat left center;
 }
 
 #ja-botsl ul.menu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/blue/arrow-white.gif) no-repeat left center;
+	background: url(../../images/blue/arrow-white.gif) no-repeat left center;
 	color: #FFFFF;
 }
 
@@ -271,19 +271,19 @@ div.ja_slideimages .caption {
 }
 
 .opal .ja-tabs-title-top {
-	background: url(/kids-book/templates/ja_opal/images/blue/title-top-bg.gif) repeat-x left bottom #444444;
+	background: url(../../images/blue/title-top-bg.gif) repeat-x left bottom #444444;
 }
 
 .opal .ja-tabs-title-top ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-top ul.ja-tabs-title li.lastactive {
-	background: url(/kids-book/templates/ja_opal/images/blue/active-top-r.gif) no-repeat right bottom;
+	background: url(../../images/blue/active-top-r.gif) no-repeat right bottom;
 }
 
 .opal .ja-tabs-title-top ul li.active h3,
 .opal .ja-tabs-title-top ul li.firstactive h3,
 .opal .ja-tabs-title-top ul li.lastactive h3 {
-	background: url(/kids-book/templates/ja_opal/images/blue/active-top-l.gif) no-repeat left bottom !important;
+	background: url(../../images/blue/active-top-l.gif) no-repeat left bottom !important;
 }
 
 .opal .ja-tab-panels-bottom {
@@ -291,19 +291,19 @@ div.ja_slideimages .caption {
 }
 
 .opal .ja-tabs-title-bottom {
-	background: url(/kids-book/templates/ja_opal/images/blue/title-bot-bg.gif) repeat-x left top;
+	background: url(../../images/blue/title-bot-bg.gif) repeat-x left top;
 }
 
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.active,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.firstactive,
 .opal .ja-tabs-title-bottom ul.ja-tabs-title li.lastactive {
-	background: url(/kids-book/templates/ja_opal/images/blue/active-bot-r.gif) no-repeat right top;
+	background: url(../../images/blue/active-bot-r.gif) no-repeat right top;
 }
 
 .opal .ja-tabs-title-bottom ul li.active h3,
 .opal .ja-tabs-title-bottom ul li.firstactive h3,
 .opal .ja-tabs-title-bottom ul li.lastactive h3 {
-	background: url(/kids-book/templates/ja_opal/images/blue/active-bot-l.gif) no-repeat left top;
+	background: url(../../images/blue/active-bot-l.gif) no-repeat left top;
 }
 
 /*ja news*/
@@ -314,7 +314,7 @@ div.ja_slideimages .caption {
 }
 
 div.jazin-section a span {
-	background: url(/kids-book/templates/ja_opal/images/blue/arrow-r.gif) no-repeat right center;
+	background: url(../../images/blue/arrow-r.gif) no-repeat right center;
 }
 
 .jazin-box {
@@ -324,7 +324,7 @@ div.jazin-section a span {
 ul.jazin-links li a:hover,
 ul.jazin-links li a:active,
 ul.jazin-links li a:focus {
-	background: url(/kids-book/templates/ja_opal/images/blue/bullet-hover.gif) no-repeat 1px 7px;
+	background: url(../../images/blue/bullet-hover.gif) no-repeat 1px 7px;
 	color: #104F92;
 }
 
@@ -335,23 +335,23 @@ pre, .code {
 }
 
 blockquote span.open {
-	background: url(/kids-book/templates/ja_opal/images/blue/so-q.gif) no-repeat left top;
+	background: url(../../images/blue/so-q.gif) no-repeat left top;
 }
 
 blockquote span.close {
-	background: url(/kids-book/templates/ja_opal/images/blue/sc-q.gif) no-repeat bottom right;
+	background: url(../../images/blue/sc-q.gif) no-repeat bottom right;
 }
 
 ul.checklist li {
-	background: url(/kids-book/templates/ja_opal/images/blue/icon-checklist.gif) no-repeat 0 4px !important;
+	background: url(../../images/blue/icon-checklist.gif) no-repeat 0 4px !important;
 }
 
 ul.arrow li {
-	background: url(/kids-book/templates/ja_opal/images/blue/icon-arrow.gif) no-repeat 3px 5px;
+	background: url(../../images/blue/icon-arrow.gif) no-repeat 3px 5px;
 }
 
 p.stickynote {
-	background: url(/kids-book/templates/ja_opal/images/icon-sticky.png) no-repeat left top #EEF4FA;
+	background: url(../../images/icon-sticky.png) no-repeat left top #EEF4FA;
 	border: 1px solid #B8CBDE;
 }
 
@@ -365,76 +365,76 @@ p.stickynote {
 }
 
 p.download {
-	background: url(/kids-book/templates/ja_opal/images/icon-download.png) no-repeat left top #EEF4FA;
+	background: url(../../images/icon-download.png) no-repeat left top #EEF4FA;
 	border: 1px solid #B8CBDE;
 }
 
 .bignumber {
-	background: url(/kids-book/templates/ja_opal/images/blue/ol-bg.gif) no-repeat top left;
+	background: url(../../images/blue/ol-bg.gif) no-repeat top left;
 }
 
 div.bubble1 div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub1-br.gif) no-repeat bottom right;
+	background: url(../../images/blue/bub1-br.gif) no-repeat bottom right;
 }
 
 div.bubble1 div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub1-bl.gif) no-repeat bottom left;
+	background: url(../../images/blue/bub1-bl.gif) no-repeat bottom left;
 }
 
 div.bubble1 div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub1-tr.gif) no-repeat top right;
+	background: url(../../images/blue/bub1-tr.gif) no-repeat top right;
 }
 
 div.bubble1 div div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub1-tl.gif) no-repeat top left;
+	background: url(../../images/blue/bub1-tl.gif) no-repeat top left;
 }
 
 div.bubble2 div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub2-br.gif) no-repeat bottom right;
+	background: url(../../images/blue/bub2-br.gif) no-repeat bottom right;
 }
 
 div.bubble2 div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub2-bl.gif) no-repeat bottom left;
+	background: url(../../images/blue/bub2-bl.gif) no-repeat bottom left;
 }
 
 div.bubble2 div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub2-tr.gif) no-repeat top right;
+	background: url(../../images/blue/bub2-tr.gif) no-repeat top right;
 }
 
 div.bubble2 div div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub2-tl.gif) no-repeat top left;
+	background: url(../../images/blue/bub2-tl.gif) no-repeat top left;
 }
 
 div.bubble3 div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub3-br.gif) no-repeat bottom right;
+	background: url(../../images/blue/bub3-br.gif) no-repeat bottom right;
 }
 
 div.bubble3 div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub3-bl.gif) no-repeat bottom left;
+	background: url(../../images/blue/bub3-bl.gif) no-repeat bottom left;
 }
 
 div.bubble3 div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub3-tr.gif) no-repeat top right;
+	background: url(../../images/blue/bub3-tr.gif) no-repeat top right;
 }
 
 div.bubble3 div div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub3-tl.gif) no-repeat top left;
+	background: url(../../images/blue/bub3-tl.gif) no-repeat top left;
 }
 
 div.bubble4 div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub4-br.gif) no-repeat bottom right;
+	background: url(../../images/blue/bub4-br.gif) no-repeat bottom right;
 }
 
 div.bubble4 div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub4-bl.gif) no-repeat bottom left;
+	background: url(../../images/blue/bub4-bl.gif) no-repeat bottom left;
 }
 
 div.bubble4 div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub4-tr.gif) no-repeat top right;
+	background: url(../../images/blue/bub4-tr.gif) no-repeat top right;
 }
 
 div.bubble4 div div div div {
-	background: url(/kids-book/templates/ja_opal/images/blue/bub4-tl.gif) no-repeat top left;
+	background: url(../../images/blue/bub4-tl.gif) no-repeat top left;
 }
 
 .legend-title {
@@ -448,7 +448,7 @@ div.bubble4 div div div div {
 
 /*split menu*/
 #ja-splitmenu a {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-sep.gif) no-repeat right top;
+	background: url(../../images/blue/mainnav-sep.gif) no-repeat right top;
 	color: #D1E0EF;
 }
 
@@ -459,16 +459,16 @@ div.bubble4 div div div div {
 }
 
 #ja-splitmenu li.active {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-active-r.gif) no-repeat right top;	
+	background: url(../../images/blue/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-splitmenu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-active-l.gif) no-repeat left top;
+	background: url(../../images/blue/mainnav-active-l.gif) no-repeat left top;
 }
 
 /*css menu*/
 #ja-cssmenu li a {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-sep.gif) no-repeat right top;
+	background: url(../../images/blue/mainnav-sep.gif) no-repeat right top;
 	color: #D1E0EF;
 }
 
@@ -477,21 +477,21 @@ div.bubble4 div div div div {
 #ja-cssmenu li a:focus {
 	color: #FFFFFF;
         background-color: #000000;
-    background: url("/kids-book/templates/ja_opal/images/blue/mainnav-active-r.gif") no-repeat scroll right top transparent;
+    background: url("../../images/blue/mainnav-active-r.gif") no-repeat scroll right top transparent;
 }
 
 #ja-cssmenu li.active {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-active-r.gif) no-repeat right top;	
+	background: url(../../images/blue/mainnav-active-r.gif) no-repeat right top;	
 }
 
 #ja-cssmenu li.active a {
-	background: url(/kids-book/templates/ja_opal/images/blue/mainnav-active-l.gif) no-repeat left top;
+	background: url(../../images/blue/mainnav-active-l.gif) no-repeat left top;
 	color: #FFFFFF;
 }
 
 #ja-cssmenu li ul {
 	border: 1px solid #061E3A;
-	background: url(/kids-book/templates/ja_opal/images/blue/trans-bg.png);
+	background: url(../../images/blue/trans-bg.png);
 }
 
 #ja-cssmenu li ul ul {
@@ -520,22 +520,4 @@ div.bubble4 div div div div {
 	background: #061E3A;
 	color: #FFFFFF !important;
 }
-
-
-/*
-     FILE ARCHIVED ON 10:33:39 May 15, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:50:19 Nov 24, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  capture_cache.get: 0.354
-  load_resource: 134.848 (2)
-  PetaboxLoader3.resolve: 33.263
-  PetaboxLoader3.datanode: 61.212 (2)
-  revisit.resolve: 52.152
-*/
 
